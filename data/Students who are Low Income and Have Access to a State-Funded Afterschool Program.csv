@@ -1,0 +1,296 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+State,California,2013,Percent,0.11832
+State,California,2012,Percent,0.12825
+State,California,2014,Percent,0.12
+State,California,2016,Percent,0.12
+State,California,2015,Percent,0.11818
+County,Alameda,2012,Percent,0.21032
+County,Alameda,2013,Percent,0.20046
+County,Alameda,2014,Percent,0.21
+County,Alameda,2016,Percent,0.21
+County,Alameda,2015,Percent,0.20273
+County,Alpine,2013,Percent,0.5075
+County,Alpine,2012,Percent,0.49525
+County,Alpine,2014,Percent,0.52
+County,Alpine,2016,Percent,0.75
+County,Alpine,2015,Percent,0.52538
+County,Amador,2012,Percent,0
+County,Amador,2013,Percent,NA
+County,Amador,2014,Percent,0
+County,Amador,2016,Percent,0
+County,Amador,2015,Percent,0
+County,Butte,2013,Percent,0.1784
+County,Butte,2012,Percent,0.20804
+County,Butte,2014,Percent,0.17
+County,Butte,2016,Percent,0.17
+County,Butte,2015,Percent,0.1671
+County,Calaveras,2012,Percent,0
+County,Calaveras,2013,Percent,NA
+County,Calaveras,2014,Percent,0
+County,Calaveras,2016,Percent,0
+County,Calaveras,2015,Percent,0
+County,Colusa,2013,Percent,0.14557
+County,Colusa,2012,Percent,0.17722
+County,Colusa,2014,Percent,0.17
+County,Colusa,2016,Percent,0.18
+County,Colusa,2015,Percent,0.1682
+County,Contra Costa,2012,Percent,0.1506
+County,Contra Costa,2013,Percent,0.11495
+County,Contra Costa,2014,Percent,0.11
+County,Contra Costa,2016,Percent,0.1
+County,Contra Costa,2015,Percent,0.10466
+County,Del Norte,2013,Percent,0.2122
+County,Del Norte,2012,Percent,0.29126
+County,Del Norte,2014,Percent,0.2
+County,Del Norte,2016,Percent,0.17
+County,Del Norte,2015,Percent,0.16381
+County,El Dorado,2012,Percent,0.11941
+County,El Dorado,2013,Percent,0.13466
+County,El Dorado,2014,Percent,0.03
+County,El Dorado,2016,Percent,0.04
+County,El Dorado,2015,Percent,0.03566
+County,Fresno,2013,Percent,0.15579
+County,Fresno,2012,Percent,0.16863
+County,Fresno,2014,Percent,0.15
+County,Fresno,2016,Percent,0.16
+County,Fresno,2015,Percent,0.16686
+County,Glenn,2012,Percent,0.17805
+County,Glenn,2013,Percent,0.15151
+County,Glenn,2014,Percent,0.13
+County,Glenn,2016,Percent,0.14
+County,Glenn,2015,Percent,0.1317
+County,Humboldt,2013,Percent,0.17918
+County,Humboldt,2012,Percent,0.18382
+County,Humboldt,2014,Percent,0.17
+County,Humboldt,2016,Percent,0.18
+County,Humboldt,2015,Percent,0.17894
+County,Imperial,2012,Percent,0.12339
+County,Imperial,2013,Percent,0.11393
+County,Imperial,2014,Percent,0.11
+County,Imperial,2016,Percent,0.11
+County,Imperial,2015,Percent,0.11143
+County,Inyo,2013,Percent,NA
+County,Inyo,2012,Percent,0
+County,Inyo,2014,Percent,0
+County,Inyo,2016,Percent,0
+County,Inyo,2015,Percent,0
+County,Kern,2012,Percent,0.09416
+County,Kern,2013,Percent,0.08608
+County,Kern,2014,Percent,0.09
+County,Kern,2016,Percent,0.1
+County,Kern,2015,Percent,0.09551
+County,Kings,2013,Percent,0.11699
+County,Kings,2012,Percent,0.13027
+County,Kings,2014,Percent,0.12
+County,Kings,2016,Percent,0.14
+County,Kings,2015,Percent,0.11521
+County,Lake,2012,Percent,0.07272
+County,Lake,2013,Percent,0.06878
+County,Lake,2014,Percent,0.07
+County,Lake,2016,Percent,0.08
+County,Lake,2015,Percent,0.06878
+County,Lassen,2013,Percent,0.09458
+County,Lassen,2012,Percent,0.15068
+County,Lassen,2014,Percent,0.08
+County,Lassen,2016,Percent,0.08
+County,Lassen,2015,Percent,0.08863
+County,Los Angeles,2012,Percent,0.12954
+County,Los Angeles,2013,Percent,0.12251
+County,Los Angeles,2014,Percent,0.12
+County,Los Angeles,2016,Percent,0.12
+County,Los Angeles,2015,Percent,0.12449
+County,Madera,2013,Percent,0.07522
+County,Madera,2012,Percent,0.10433
+County,Madera,2014,Percent,0.11
+County,Madera,2016,Percent,0.12
+County,Madera,2015,Percent,0.11815
+County,Marin,2012,Percent,0.11011
+County,Marin,2013,Percent,0.10752
+County,Marin,2014,Percent,0.1
+County,Marin,2016,Percent,0.11
+County,Marin,2015,Percent,0.11335
+County,Mariposa,2013,Percent,0.16666
+County,Mariposa,2012,Percent,0.24202
+County,Mariposa,2014,Percent,0.17
+County,Mariposa,2016,Percent,0.13
+County,Mariposa,2015,Percent,0.19233
+County,Mendocino,2012,Percent,0.21521
+County,Mendocino,2013,Percent,0.18085
+County,Mendocino,2014,Percent,0.17
+County,Mendocino,2016,Percent,0.16
+County,Mendocino,2015,Percent,0.1654
+County,Merced,2013,Percent,0.10563
+County,Merced,2012,Percent,0.11662
+County,Merced,2014,Percent,0.12
+County,Merced,2016,Percent,0.12
+County,Merced,2015,Percent,0.12119
+County,Modoc,2012,Percent,0.26809
+County,Modoc,2013,Percent,0.23603
+County,Modoc,2014,Percent,0.24
+County,Modoc,2016,Percent,0.27
+County,Modoc,2015,Percent,0.24709
+County,Mono,2013,Percent,0.04854
+County,Mono,2012,Percent,0.14519
+County,Mono,2014,Percent,0.05
+County,Mono,2016,Percent,0.03
+County,Mono,2015,Percent,0.03522
+County,Monterey,2012,Percent,0.11482
+County,Monterey,2013,Percent,0.08199
+County,Monterey,2014,Percent,0.08
+County,Monterey,2016,Percent,0.08
+County,Monterey,2015,Percent,0.07435
+County,Napa,2013,Percent,0.18767
+County,Napa,2012,Percent,0.18678
+County,Napa,2014,Percent,0.2
+County,Napa,2016,Percent,0.2
+County,Napa,2015,Percent,0.19992
+County,Nevada,2012,Percent,0.07842
+County,Nevada,2013,Percent,0.05238
+County,Nevada,2014,Percent,0.05
+County,Nevada,2016,Percent,0.06
+County,Nevada,2015,Percent,0.05123
+County,Orange,2013,Percent,0.0969
+County,Orange,2012,Percent,0.10624
+County,Orange,2014,Percent,0.09
+County,Orange,2016,Percent,0.1
+County,Orange,2015,Percent,0.09834
+County,Placer,2012,Percent,0.02979
+County,Placer,2013,Percent,0.03087
+County,Placer,2014,Percent,0.03
+County,Placer,2016,Percent,0.03
+County,Placer,2015,Percent,0.03393
+County,Plumas,2013,Percent,0.07766
+County,Plumas,2012,Percent,0.18879
+County,Plumas,2014,Percent,0.07
+County,Plumas,2016,Percent,0.05
+County,Plumas,2015,Percent,0.06428
+County,Riverside,2012,Percent,0.08596
+County,Riverside,2013,Percent,0.07925
+County,Riverside,2014,Percent,0.08
+County,Riverside,2016,Percent,0.08
+County,Riverside,2015,Percent,0.07984
+County,Sacramento,2013,Percent,0.149
+County,Sacramento,2012,Percent,0.13136
+County,Sacramento,2014,Percent,0.13
+County,Sacramento,2016,Percent,0.13
+County,Sacramento,2015,Percent,0.13377
+County,San Benito,2012,Percent,0.0806
+County,San Benito,2013,Percent,0.07619
+County,San Benito,2014,Percent,0.07
+County,San Benito,2016,Percent,0.07
+County,San Benito,2015,Percent,0.07004
+County,San Bernardino,2013,Percent,0.08083
+County,San Bernardino,2012,Percent,0.08834
+County,San Bernardino,2014,Percent,0.07
+County,San Bernardino,2016,Percent,0.07
+County,San Bernardino,2015,Percent,0.07032
+County,San Diego,2012,Percent,0.14095
+County,San Diego,2013,Percent,0.11768
+County,San Diego,2014,Percent,0.12
+County,San Diego,2016,Percent,0.13
+County,San Diego,2015,Percent,0.12723
+County,San Francisco,2013,Percent,0.29619
+County,San Francisco,2012,Percent,0.31718
+County,San Francisco,2014,Percent,0.31
+County,San Francisco,2016,Percent,0.36
+County,San Francisco,2015,Percent,0.30465
+County,San Joaquin,2012,Percent,0.13237
+County,San Joaquin,2013,Percent,0.11456
+County,San Joaquin,2014,Percent,0.11
+County,San Joaquin,2016,Percent,0.11
+County,San Joaquin,2015,Percent,0.10723
+County,San Luis Obispo,2013,Percent,0.08595
+County,San Luis Obispo,2012,Percent,0.11745
+County,San Luis Obispo,2014,Percent,0.08
+County,San Luis Obispo,2016,Percent,0.08
+County,San Luis Obispo,2015,Percent,0.0783
+County,San Mateo,2012,Percent,0.14051
+County,San Mateo,2013,Percent,0.13759
+County,San Mateo,2014,Percent,0.15
+County,San Mateo,2016,Percent,0.13
+County,San Mateo,2015,Percent,0.13176
+County,Santa Barbara,2013,Percent,0.07481
+County,Santa Barbara,2012,Percent,0.08714
+County,Santa Barbara,2014,Percent,0.08
+County,Santa Barbara,2016,Percent,0.08
+County,Santa Barbara,2015,Percent,0.07847
+County,Santa Clara,2012,Percent,0.13121
+County,Santa Clara,2013,Percent,0.12379
+County,Santa Clara,2014,Percent,0.12
+County,Santa Clara,2016,Percent,0.12
+County,Santa Clara,2015,Percent,0.12226
+County,Santa Cruz,2013,Percent,0.22808
+County,Santa Cruz,2012,Percent,0.2336
+County,Santa Cruz,2014,Percent,0.24
+County,Santa Cruz,2016,Percent,0.22
+County,Santa Cruz,2015,Percent,0.23202
+County,Shasta,2012,Percent,0.2384
+County,Shasta,2013,Percent,0.20717
+County,Shasta,2014,Percent,0.2
+County,Shasta,2016,Percent,0.22
+County,Shasta,2015,Percent,0.21043
+County,Sierra,2013,Percent,NA
+County,Sierra,2012,Percent,0
+County,Sierra,2014,Percent,0
+County,Sierra,2016,Percent,0
+County,Sierra,2015,Percent,0
+County,Siskiyou,2012,Percent,0.34155
+County,Siskiyou,2013,Percent,0.31792
+County,Siskiyou,2014,Percent,0.32
+County,Siskiyou,2016,Percent,0.34
+County,Siskiyou,2015,Percent,0.33951
+County,Solano,2013,Percent,0.08689
+County,Solano,2012,Percent,0.09765
+County,Solano,2014,Percent,0.08
+County,Solano,2016,Percent,0.08
+County,Solano,2015,Percent,0.07858
+County,Sonoma,2012,Percent,0.12802
+County,Sonoma,2013,Percent,0.12188
+County,Sonoma,2014,Percent,0.13
+County,Sonoma,2016,Percent,0.13
+County,Sonoma,2015,Percent,0.11987
+County,Stanislaus,2013,Percent,0.16962
+County,Stanislaus,2012,Percent,0.16454
+County,Stanislaus,2014,Percent,0.14
+County,Stanislaus,2016,Percent,0.14
+County,Stanislaus,2015,Percent,0.14035
+County,Sutter,2012,Percent,0.09118
+County,Sutter,2013,Percent,0.11231
+County,Sutter,2014,Percent,0.11
+County,Sutter,2016,Percent,0.12
+County,Sutter,2015,Percent,0.11806
+County,Tehama,2013,Percent,0.23972
+County,Tehama,2012,Percent,0.2449
+County,Tehama,2014,Percent,0.22
+County,Tehama,2016,Percent,0.29
+County,Tehama,2015,Percent,0.24896
+County,Trinity,2012,Percent,0.43902
+County,Trinity,2013,Percent,0.44854
+County,Trinity,2014,Percent,0.43
+County,Trinity,2016,Percent,0.5
+County,Trinity,2015,Percent,0.52434
+County,Tulare,2013,Percent,0.14438
+County,Tulare,2012,Percent,0.17139
+County,Tulare,2014,Percent,0.15
+County,Tulare,2016,Percent,0.16
+County,Tulare,2015,Percent,0.14881
+County,Tuolumne,2012,Percent,0
+County,Tuolumne,2013,Percent,NA
+County,Tuolumne,2014,Percent,0
+County,Tuolumne,2016,Percent,0
+County,Tuolumne,2015,Percent,0
+County,Ventura,2013,Percent,0.08657
+County,Ventura,2012,Percent,0.09047
+County,Ventura,2014,Percent,0.08
+County,Ventura,2016,Percent,0.09
+County,Ventura,2015,Percent,0.08245
+County,Yolo,2012,Percent,0.10662
+County,Yolo,2013,Percent,0.11189
+County,Yolo,2014,Percent,0.1
+County,Yolo,2016,Percent,0.11
+County,Yolo,2015,Percent,0.1074
+County,Yuba,2013,Percent,0.15492
+County,Yuba,2012,Percent,0.12979
+County,Yuba,2014,Percent,0.14
+County,Yuba,2016,Percent,0.14
+County,Yuba,2015,Percent,0.14473

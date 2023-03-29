@@ -1,0 +1,1393 @@
+LocationType,Location,Age group,TimeFrame,DataFormat,Data
+County,Alameda,0-3,2013,Percent,0.39
+County,Alameda,4-5,2013,Percent,0.65
+County,Alameda,6-8,2013,Percent,0.65
+County,Alameda,9-11,2013,Percent,0.61
+County,Alameda,12-14,2013,Percent,0.54
+County,Alameda,15-18,2013,Percent,0.48
+County,Alameda,19-20,2013,Percent,0.34
+County,Alameda,0-20,2013,Percent,0.53
+County,Alameda,0-3,2014,Percent,0.54967
+County,Alameda,4-5,2014,Percent,0.62094
+County,Alameda,6-8,2014,Percent,0.62964
+County,Alameda,9-11,2014,Percent,0.58512
+County,Alameda,12-14,2014,Percent,0.5269
+County,Alameda,15-18,2014,Percent,0.44329
+County,Alameda,19-20,2014,Percent,0.30379
+County,Alameda,0-20,2014,Percent,0.50766
+County,Alameda,0-3,2015,Percent,0.35908
+County,Alameda,4-5,2015,Percent,0.59473
+County,Alameda,6-8,2015,Percent,0.59401
+County,Alameda,9-11,2015,Percent,0.55505
+County,Alameda,12-14,2015,Percent,0.49734
+County,Alameda,15-18,2015,Percent,0.41794
+County,Alameda,19-20,2015,Percent,0.28964
+County,Alameda,0-20,2015,Percent,0.4816
+County,Alpine,0-3,2013,Percent,NA
+County,Alpine,4-5,2013,Percent,NA
+County,Alpine,6-8,2013,Percent,NA
+County,Alpine,9-11,2013,Percent,NA
+County,Alpine,12-14,2013,Percent,NA
+County,Alpine,15-18,2013,Percent,NA
+County,Alpine,19-20,2013,Percent,NA
+County,Alpine,0-20,2013,Percent,NA
+County,Alpine,0-3,2014,Percent,NA
+County,Alpine,4-5,2014,Percent,NA
+County,Alpine,6-8,2014,Percent,NA
+County,Alpine,9-11,2014,Percent,NA
+County,Alpine,12-14,2014,Percent,NA
+County,Alpine,15-18,2014,Percent,NA
+County,Alpine,19-20,2014,Percent,NA
+County,Alpine,0-20,2014,Percent,0.28846
+County,Alpine,0-3,2015,Percent,NA
+County,Alpine,4-5,2015,Percent,NA
+County,Alpine,6-8,2015,Percent,NA
+County,Alpine,9-11,2015,Percent,0.54545
+County,Alpine,12-14,2015,Percent,NA
+County,Alpine,15-18,2015,Percent,NA
+County,Alpine,19-20,2015,Percent,NA
+County,Alpine,0-20,2015,Percent,0.45192
+County,Amador,0-3,2013,Percent,0.21
+County,Amador,4-5,2013,Percent,0.54
+County,Amador,6-8,2013,Percent,0.46
+County,Amador,9-11,2013,Percent,0.5
+County,Amador,12-14,2013,Percent,0.42
+County,Amador,15-18,2013,Percent,0.43
+County,Amador,19-20,2013,Percent,0.27
+County,Amador,0-20,2013,Percent,0.41
+County,Amador,0-3,2014,Percent,0.17617
+County,Amador,4-5,2014,Percent,0.41026
+County,Amador,6-8,2014,Percent,0.44643
+County,Amador,9-11,2014,Percent,0.41476
+County,Amador,12-14,2014,Percent,0.4139
+County,Amador,15-18,2014,Percent,0.40326
+County,Amador,19-20,2014,Percent,0.28058
+County,Amador,0-20,2014,Percent,0.36936
+County,Amador,0-3,2015,Percent,0.17411
+County,Amador,4-5,2015,Percent,0.41762
+County,Amador,6-8,2015,Percent,0.45972
+County,Amador,9-11,2015,Percent,0.42694
+County,Amador,12-14,2015,Percent,0.42298
+County,Amador,15-18,2015,Percent,0.42589
+County,Amador,19-20,2015,Percent,0.265
+County,Amador,0-20,2015,Percent,0.37514
+County,Butte,0-3,2013,Percent,0.32
+County,Butte,4-5,2013,Percent,0.59
+County,Butte,6-8,2013,Percent,0.58
+County,Butte,9-11,2013,Percent,0.56
+County,Butte,12-14,2013,Percent,0.5
+County,Butte,15-18,2013,Percent,0.46
+County,Butte,19-20,2013,Percent,0.32
+County,Butte,0-20,2013,Percent,0.48
+County,Butte,0-3,2014,Percent,0.29429
+County,Butte,4-5,2014,Percent,0.56625
+County,Butte,6-8,2014,Percent,0.56387
+County,Butte,9-11,2014,Percent,0.5372
+County,Butte,12-14,2014,Percent,0.47333
+County,Butte,15-18,2014,Percent,0.41945
+County,Butte,19-20,2014,Percent,0.28322
+County,Butte,0-20,2014,Percent,0.45276
+County,Butte,0-3,2015,Percent,0.31054
+County,Butte,4-5,2015,Percent,0.55866
+County,Butte,6-8,2015,Percent,0.57823
+County,Butte,9-11,2015,Percent,0.53883
+County,Butte,12-14,2015,Percent,0.47691
+County,Butte,15-18,2015,Percent,0.40721
+County,Butte,19-20,2015,Percent,0.27571
+County,Butte,0-20,2015,Percent,0.45371
+County,Calaveras,0-3,2013,Percent,0.21
+County,Calaveras,4-5,2013,Percent,0.52
+County,Calaveras,6-8,2013,Percent,0.42
+County,Calaveras,9-11,2013,Percent,0.48
+County,Calaveras,12-14,2013,Percent,0.41
+County,Calaveras,15-18,2013,Percent,0.4
+County,Calaveras,19-20,2013,Percent,0.28
+County,Calaveras,0-20,2013,Percent,0.39
+County,Calaveras,0-3,2014,Percent,0.15881
+County,Calaveras,4-5,2014,Percent,0.44068
+County,Calaveras,6-8,2014,Percent,0.41935
+County,Calaveras,9-11,2014,Percent,0.41575
+County,Calaveras,12-14,2014,Percent,0.41165
+County,Calaveras,15-18,2014,Percent,0.3927
+County,Calaveras,19-20,2014,Percent,0.1886
+County,Calaveras,0-20,2014,Percent,0.35673
+County,Calaveras,0-3,2015,Percent,0.13871
+County,Calaveras,4-5,2015,Percent,0.39695
+County,Calaveras,6-8,2015,Percent,0.38792
+County,Calaveras,9-11,2015,Percent,0.41186
+County,Calaveras,12-14,2015,Percent,0.38837
+County,Calaveras,15-18,2015,Percent,0.408
+County,Calaveras,19-20,2015,Percent,0.20068
+County,Calaveras,0-20,2015,Percent,0.34187
+County,Colusa,0-3,2013,Percent,0.34
+County,Colusa,4-5,2013,Percent,0.73
+County,Colusa,6-8,2013,Percent,0.7
+County,Colusa,9-11,2013,Percent,0.66
+County,Colusa,12-14,2013,Percent,0.56
+County,Colusa,15-18,2013,Percent,0.5
+County,Colusa,19-20,2013,Percent,0.44
+County,Colusa,0-20,2013,Percent,0.56
+County,Colusa,0-3,2014,Percent,0.34873
+County,Colusa,4-5,2014,Percent,0.70156
+County,Colusa,6-8,2014,Percent,0.7212
+County,Colusa,9-11,2014,Percent,0.65672
+County,Colusa,12-14,2014,Percent,0.56063
+County,Colusa,15-18,2014,Percent,0.52699
+County,Colusa,19-20,2014,Percent,0.35371
+County,Colusa,0-20,2014,Percent,0.56977
+County,Colusa,0-3,2015,Percent,0.38928
+County,Colusa,4-5,2015,Percent,0.71267
+County,Colusa,6-8,2015,Percent,0.73265
+County,Colusa,9-11,2015,Percent,0.7038
+County,Colusa,12-14,2015,Percent,0.5781
+County,Colusa,15-18,2015,Percent,0.48542
+County,Colusa,19-20,2015,Percent,0.33562
+County,Colusa,0-20,2015,Percent,0.57761
+County,Contra Costa,0-3,2013,Percent,0.26
+County,Contra Costa,4-5,2013,Percent,0.59
+County,Contra Costa,6-8,2013,Percent,0.62
+County,Contra Costa,9-11,2013,Percent,0.57
+County,Contra Costa,12-14,2013,Percent,0.51
+County,Contra Costa,15-18,2013,Percent,0.45
+County,Contra Costa,19-20,2013,Percent,0.31
+County,Contra Costa,0-20,2013,Percent,0.48
+County,Contra Costa,0-3,2014,Percent,0.23314
+County,Contra Costa,4-5,2014,Percent,0.52881
+County,Contra Costa,6-8,2014,Percent,0.57183
+County,Contra Costa,9-11,2014,Percent,0.54205
+County,Contra Costa,12-14,2014,Percent,0.48949
+County,Contra Costa,15-18,2014,Percent,0.42405
+County,Contra Costa,19-20,2014,Percent,0.28848
+County,Contra Costa,0-20,2014,Percent,0.44841
+County,Contra Costa,0-3,2015,Percent,0.24264
+County,Contra Costa,4-5,2015,Percent,0.51423
+County,Contra Costa,6-8,2015,Percent,0.54141
+County,Contra Costa,9-11,2015,Percent,0.51395
+County,Contra Costa,12-14,2015,Percent,0.45837
+County,Contra Costa,15-18,2015,Percent,0.39153
+County,Contra Costa,19-20,2015,Percent,0.26142
+County,Contra Costa,0-20,2015,Percent,0.42485
+County,Del Norte,0-3,2013,Percent,0.3
+County,Del Norte,4-5,2013,Percent,0.59
+County,Del Norte,6-8,2013,Percent,0.59
+County,Del Norte,9-11,2013,Percent,0.61
+County,Del Norte,12-14,2013,Percent,0.46
+County,Del Norte,15-18,2013,Percent,0.46
+County,Del Norte,19-20,2013,Percent,0.32
+County,Del Norte,0-20,2013,Percent,0.48
+County,Del Norte,0-3,2014,Percent,0.28571
+County,Del Norte,4-5,2014,Percent,0.59338
+County,Del Norte,6-8,2014,Percent,0.59558
+County,Del Norte,9-11,2014,Percent,0.56929
+County,Del Norte,12-14,2014,Percent,0.47665
+County,Del Norte,15-18,2014,Percent,0.46429
+County,Del Norte,19-20,2014,Percent,0.29832
+County,Del Norte,0-20,2014,Percent,0.47603
+County,Del Norte,0-3,2015,Percent,0.29387
+County,Del Norte,4-5,2015,Percent,0.58824
+County,Del Norte,6-8,2015,Percent,0.65016
+County,Del Norte,9-11,2015,Percent,0.63711
+County,Del Norte,12-14,2015,Percent,0.52941
+County,Del Norte,15-18,2015,Percent,0.45238
+County,Del Norte,19-20,2015,Percent,0.27517
+County,Del Norte,0-20,2015,Percent,0.49568
+County,El Dorado,0-3,2013,Percent,0.28
+County,El Dorado,4-5,2013,Percent,0.61
+County,El Dorado,6-8,2013,Percent,0.55
+County,El Dorado,9-11,2013,Percent,0.51
+County,El Dorado,12-14,2013,Percent,0.47
+County,El Dorado,15-18,2013,Percent,0.43
+County,El Dorado,19-20,2013,Percent,0.29
+County,El Dorado,0-20,2013,Percent,0.46
+County,El Dorado,0-3,2014,Percent,0.26345
+County,El Dorado,4-5,2014,Percent,0.55124
+County,El Dorado,6-8,2014,Percent,0.55441
+County,El Dorado,9-11,2014,Percent,0.52054
+County,El Dorado,12-14,2014,Percent,0.45641
+County,El Dorado,15-18,2014,Percent,0.42445
+County,El Dorado,19-20,2014,Percent,0.26917
+County,El Dorado,0-20,2014,Percent,0.4462
+County,El Dorado,0-3,2015,Percent,0.22128
+County,El Dorado,4-5,2015,Percent,0.47648
+County,El Dorado,6-8,2015,Percent,0.48359
+County,El Dorado,9-11,2015,Percent,0.45114
+County,El Dorado,12-14,2015,Percent,0.43605
+County,El Dorado,15-18,2015,Percent,0.40459
+County,El Dorado,19-20,2015,Percent,0.25759
+County,El Dorado,0-20,2015,Percent,0.39807
+County,Fresno,0-3,2013,Percent,0.25
+County,Fresno,4-5,2013,Percent,0.62
+County,Fresno,6-8,2013,Percent,0.65
+County,Fresno,9-11,2013,Percent,0.61
+County,Fresno,12-14,2013,Percent,0.54
+County,Fresno,15-18,2013,Percent,0.48
+County,Fresno,19-20,2013,Percent,0.35
+County,Fresno,0-20,2013,Percent,0.5
+County,Fresno,0-3,2014,Percent,0.23667
+County,Fresno,4-5,2014,Percent,0.59157
+County,Fresno,6-8,2014,Percent,0.62711
+County,Fresno,9-11,2014,Percent,0.59952
+County,Fresno,12-14,2014,Percent,0.52933
+County,Fresno,15-18,2014,Percent,0.47284
+County,Fresno,19-20,2014,Percent,0.32788
+County,Fresno,0-20,2014,Percent,0.48955
+County,Fresno,0-3,2015,Percent,0.25684
+County,Fresno,4-5,2015,Percent,0.57892
+County,Fresno,6-8,2015,Percent,0.61033
+County,Fresno,9-11,2015,Percent,0.58612
+County,Fresno,12-14,2015,Percent,0.51561
+County,Fresno,15-18,2015,Percent,0.45141
+County,Fresno,19-20,2015,Percent,0.31464
+County,Fresno,0-20,2015,Percent,0.47954
+County,Glenn,0-3,2013,Percent,0.47
+County,Glenn,4-5,2013,Percent,0.75
+County,Glenn,6-8,2013,Percent,0.72
+County,Glenn,9-11,2013,Percent,0.64
+County,Glenn,12-14,2013,Percent,0.57
+County,Glenn,15-18,2013,Percent,0.55
+County,Glenn,19-20,2013,Percent,0.39
+County,Glenn,0-20,2013,Percent,0.6
+County,Glenn,0-3,2014,Percent,0.42982
+County,Glenn,4-5,2014,Percent,0.72097
+County,Glenn,6-8,2014,Percent,0.69498
+County,Glenn,9-11,2014,Percent,0.65741
+County,Glenn,12-14,2014,Percent,0.56692
+County,Glenn,15-18,2014,Percent,0.52788
+County,Glenn,19-20,2014,Percent,0.31907
+County,Glenn,0-20,2014,Percent,0.57795
+County,Glenn,0-3,2015,Percent,0.40047
+County,Glenn,4-5,2015,Percent,0.74419
+County,Glenn,6-8,2015,Percent,0.69831
+County,Glenn,9-11,2015,Percent,0.6182
+County,Glenn,12-14,2015,Percent,0.59463
+County,Glenn,15-18,2015,Percent,0.48534
+County,Glenn,19-20,2015,Percent,0.33226
+County,Glenn,0-20,2015,Percent,0.56326
+County,Humboldt,0-3,2013,Percent,0.21
+County,Humboldt,4-5,2013,Percent,0.53
+County,Humboldt,6-8,2013,Percent,0.53
+County,Humboldt,9-11,2013,Percent,0.48
+County,Humboldt,12-14,2013,Percent,0.44
+County,Humboldt,15-18,2013,Percent,0.43
+County,Humboldt,19-20,2013,Percent,0.3
+County,Humboldt,0-20,2013,Percent,0.41
+County,Humboldt,0-3,2014,Percent,0.22251
+County,Humboldt,4-5,2014,Percent,0.52185
+County,Humboldt,6-8,2014,Percent,0.51393
+County,Humboldt,9-11,2014,Percent,0.46721
+County,Humboldt,12-14,2014,Percent,0.43529
+County,Humboldt,15-18,2014,Percent,0.41575
+County,Humboldt,19-20,2014,Percent,0.28519
+County,Humboldt,0-20,2014,Percent,0.41094
+County,Humboldt,0-3,2015,Percent,0.23482
+County,Humboldt,4-5,2015,Percent,0.4738
+County,Humboldt,6-8,2015,Percent,0.4991
+County,Humboldt,9-11,2015,Percent,0.49603
+County,Humboldt,12-14,2015,Percent,0.43264
+County,Humboldt,15-18,2015,Percent,0.39892
+County,Humboldt,19-20,2015,Percent,0.25599
+County,Humboldt,0-20,2015,Percent,0.40275
+County,Imperial,0-3,2013,Percent,0.27
+County,Imperial,4-5,2013,Percent,0.57
+County,Imperial,6-8,2013,Percent,0.54
+County,Imperial,9-11,2013,Percent,0.48
+County,Imperial,12-14,2013,Percent,0.46
+County,Imperial,15-18,2013,Percent,0.41
+County,Imperial,19-20,2013,Percent,0.29
+County,Imperial,0-20,2013,Percent,0.43
+County,Imperial,0-3,2014,Percent,0.20913
+County,Imperial,4-5,2014,Percent,0.51766
+County,Imperial,6-8,2014,Percent,0.52665
+County,Imperial,9-11,2014,Percent,0.47809
+County,Imperial,12-14,2014,Percent,0.38923
+County,Imperial,15-18,2014,Percent,0.34524
+County,Imperial,19-20,2014,Percent,0.22461
+County,Imperial,0-20,2014,Percent,0.38899
+County,Imperial,0-3,2015,Percent,0.19183
+County,Imperial,4-5,2015,Percent,0.49037
+County,Imperial,6-8,2015,Percent,0.45707
+County,Imperial,9-11,2015,Percent,0.40376
+County,Imperial,12-14,2015,Percent,0.37165
+County,Imperial,15-18,2015,Percent,0.30876
+County,Imperial,19-20,2015,Percent,0.21711
+County,Imperial,0-20,2015,Percent,0.35014
+County,Inyo,0-3,2013,Percent,0.23
+County,Inyo,4-5,2013,Percent,0.61
+County,Inyo,6-8,2013,Percent,0.61
+County,Inyo,9-11,2013,Percent,0.49
+County,Inyo,12-14,2013,Percent,0.51
+County,Inyo,15-18,2013,Percent,0.44
+County,Inyo,19-20,2013,Percent,0.44
+County,Inyo,0-20,2013,Percent,0.46
+County,Inyo,0-3,2014,Percent,0.23919
+County,Inyo,4-5,2014,Percent,0.53465
+County,Inyo,6-8,2014,Percent,0.59868
+County,Inyo,9-11,2014,Percent,0.57801
+County,Inyo,12-14,2014,Percent,0.47556
+County,Inyo,15-18,2014,Percent,0.4281
+County,Inyo,19-20,2014,Percent,0.35052
+County,Inyo,0-20,2014,Percent,0.45831
+County,Inyo,0-3,2015,Percent,0.27606
+County,Inyo,4-5,2015,Percent,0.64948
+County,Inyo,6-8,2015,Percent,0.55891
+County,Inyo,9-11,2015,Percent,0.57692
+County,Inyo,12-14,2015,Percent,0.5155
+County,Inyo,15-18,2015,Percent,0.41818
+County,Inyo,19-20,2015,Percent,0.20168
+County,Inyo,0-20,2015,Percent,0.46701
+County,Kern,0-3,2013,Percent,0.33
+County,Kern,4-5,2013,Percent,0.72
+County,Kern,6-8,2013,Percent,0.7
+County,Kern,9-11,2013,Percent,0.65
+County,Kern,12-14,2013,Percent,0.58
+County,Kern,15-18,2013,Percent,0.51
+County,Kern,19-20,2013,Percent,0.36
+County,Kern,0-20,2013,Percent,0.55
+County,Kern,0-3,2014,Percent,0.32048
+County,Kern,4-5,2014,Percent,0.6853
+County,Kern,6-8,2014,Percent,0.6755
+County,Kern,9-11,2014,Percent,0.63742
+County,Kern,12-14,2014,Percent,0.56702
+County,Kern,15-18,2014,Percent,0.49868
+County,Kern,19-20,2014,Percent,0.33576
+County,Kern,0-20,2014,Percent,0.54027
+County,Kern,0-3,2015,Percent,0.34452
+County,Kern,4-5,2015,Percent,0.67773
+County,Kern,6-8,2015,Percent,0.66861
+County,Kern,9-11,2015,Percent,0.6196
+County,Kern,12-14,2015,Percent,0.55261
+County,Kern,15-18,2015,Percent,0.4837
+County,Kern,19-20,2015,Percent,0.33259
+County,Kern,0-20,2015,Percent,0.53382
+County,Kings,0-3,2013,Percent,0.26
+County,Kings,4-5,2013,Percent,0.61
+County,Kings,6-8,2013,Percent,0.64
+County,Kings,9-11,2013,Percent,0.61
+County,Kings,12-14,2013,Percent,0.55
+County,Kings,15-18,2013,Percent,0.47
+County,Kings,19-20,2013,Percent,0.3
+County,Kings,0-20,2013,Percent,0.5
+County,Kings,0-3,2014,Percent,0.28038
+County,Kings,4-5,2014,Percent,0.59582
+County,Kings,6-8,2014,Percent,0.6328
+County,Kings,9-11,2014,Percent,0.60727
+County,Kings,12-14,2014,Percent,0.51846
+County,Kings,15-18,2014,Percent,0.42555
+County,Kings,19-20,2014,Percent,0.30533
+County,Kings,0-20,2014,Percent,0.49191
+County,Kings,0-3,2015,Percent,0.29157
+County,Kings,4-5,2015,Percent,0.58566
+County,Kings,6-8,2015,Percent,0.61333
+County,Kings,9-11,2015,Percent,0.57706
+County,Kings,12-14,2015,Percent,0.51312
+County,Kings,15-18,2015,Percent,0.42097
+County,Kings,19-20,2015,Percent,0.26942
+County,Kings,0-20,2015,Percent,0.48105
+County,Lake,0-3,2013,Percent,0.39
+County,Lake,4-5,2013,Percent,0.66
+County,Lake,6-8,2013,Percent,0.64
+County,Lake,9-11,2013,Percent,0.58
+County,Lake,12-14,2013,Percent,0.54
+County,Lake,15-18,2013,Percent,0.5
+County,Lake,19-20,2013,Percent,0.33
+County,Lake,0-20,2013,Percent,0.53
+County,Lake,0-3,2014,Percent,0.38166
+County,Lake,4-5,2014,Percent,0.57937
+County,Lake,6-8,2014,Percent,0.57508
+County,Lake,9-11,2014,Percent,0.52516
+County,Lake,12-14,2014,Percent,0.47649
+County,Lake,15-18,2014,Percent,0.42467
+County,Lake,19-20,2014,Percent,0.30236
+County,Lake,0-20,2014,Percent,0.47321
+County,Lake,0-3,2015,Percent,0.35718
+County,Lake,4-5,2015,Percent,0.57524
+County,Lake,6-8,2015,Percent,0.56864
+County,Lake,9-11,2015,Percent,0.50888
+County,Lake,12-14,2015,Percent,0.48246
+County,Lake,15-18,2015,Percent,0.45136
+County,Lake,19-20,2015,Percent,0.30618
+County,Lake,0-20,2015,Percent,0.4695
+County,Lassen,0-3,2013,Percent,0.37
+County,Lassen,4-5,2013,Percent,0.69
+County,Lassen,6-8,2013,Percent,0.56
+County,Lassen,9-11,2013,Percent,0.47
+County,Lassen,12-14,2013,Percent,0.41
+County,Lassen,15-18,2013,Percent,0.45
+County,Lassen,19-20,2013,Percent,0.25
+County,Lassen,0-20,2013,Percent,0.47
+County,Lassen,0-3,2014,Percent,0.35931
+County,Lassen,4-5,2014,Percent,0.65926
+County,Lassen,6-8,2014,Percent,0.53299
+County,Lassen,9-11,2014,Percent,0.47765
+County,Lassen,12-14,2014,Percent,0.42547
+County,Lassen,15-18,2014,Percent,0.43099
+County,Lassen,19-20,2014,Percent,0.25316
+County,Lassen,0-20,2014,Percent,0.45435
+County,Lassen,0-3,2015,Percent,0.34064
+County,Lassen,4-5,2015,Percent,0.59136
+County,Lassen,6-8,2015,Percent,0.52887
+County,Lassen,9-11,2015,Percent,0.49512
+County,Lassen,12-14,2015,Percent,0.42507
+County,Lassen,15-18,2015,Percent,0.39301
+County,Lassen,19-20,2015,Percent,0.23636
+County,Lassen,0-20,2015,Percent,0.43854
+County,Los Angeles,0-3,2013,Percent,0.36
+County,Los Angeles,4-5,2013,Percent,0.73
+County,Los Angeles,6-8,2013,Percent,0.74
+County,Los Angeles,9-11,2013,Percent,0.69
+County,Los Angeles,12-14,2013,Percent,0.63
+County,Los Angeles,15-18,2013,Percent,0.55
+County,Los Angeles,19-20,2013,Percent,0.41
+County,Los Angeles,0-20,2013,Percent,0.59
+County,Los Angeles,0-3,2014,Percent,0.33769
+County,Los Angeles,4-5,2014,Percent,0.68841
+County,Los Angeles,6-8,2014,Percent,0.70882
+County,Los Angeles,9-11,2014,Percent,0.67091
+County,Los Angeles,12-14,2014,Percent,0.60531
+County,Los Angeles,15-18,2014,Percent,0.51879
+County,Los Angeles,19-20,2014,Percent,0.36912
+County,Los Angeles,0-20,2014,Percent,0.56452
+County,Los Angeles,0-3,2015,Percent,0.34686
+County,Los Angeles,4-5,2015,Percent,0.6689
+County,Los Angeles,6-8,2015,Percent,0.68698
+County,Los Angeles,9-11,2015,Percent,0.65129
+County,Los Angeles,12-14,2015,Percent,0.58828
+County,Los Angeles,15-18,2015,Percent,0.49604
+County,Los Angeles,19-20,2015,Percent,0.34187
+County,Los Angeles,0-20,2015,Percent,0.54633
+County,Madera,0-3,2013,Percent,0.34
+County,Madera,4-5,2013,Percent,0.67
+County,Madera,6-8,2013,Percent,0.69
+County,Madera,9-11,2013,Percent,0.65
+County,Madera,12-14,2013,Percent,0.58
+County,Madera,15-18,2013,Percent,0.49
+County,Madera,19-20,2013,Percent,0.38
+County,Madera,0-20,2013,Percent,0.55
+County,Madera,0-3,2014,Percent,0.32428
+County,Madera,4-5,2014,Percent,0.66615
+County,Madera,6-8,2014,Percent,0.67753
+County,Madera,9-11,2014,Percent,0.65478
+County,Madera,12-14,2014,Percent,0.59587
+County,Madera,15-18,2014,Percent,0.51145
+County,Madera,19-20,2014,Percent,0.36947
+County,Madera,0-20,2014,Percent,0.55135
+County,Madera,0-3,2015,Percent,0.3661
+County,Madera,4-5,2015,Percent,0.67596
+County,Madera,6-8,2015,Percent,0.69545
+County,Madera,9-11,2015,Percent,0.66125
+County,Madera,12-14,2015,Percent,0.59354
+County,Madera,15-18,2015,Percent,0.49971
+County,Madera,19-20,2015,Percent,0.35645
+County,Madera,0-20,2015,Percent,0.56056
+County,Marin,0-3,2013,Percent,0.73
+County,Marin,4-5,2013,Percent,0.85
+County,Marin,6-8,2013,Percent,0.83
+County,Marin,9-11,2013,Percent,0.79
+County,Marin,12-14,2013,Percent,0.73
+County,Marin,15-18,2013,Percent,0.56
+County,Marin,19-20,2013,Percent,0.36
+County,Marin,0-20,2013,Percent,0.74
+County,Marin,0-3,2014,Percent,0.67548
+County,Marin,4-5,2014,Percent,0.78184
+County,Marin,6-8,2014,Percent,0.7832
+County,Marin,9-11,2014,Percent,0.71837
+County,Marin,12-14,2014,Percent,0.66834
+County,Marin,15-18,2014,Percent,0.54723
+County,Marin,19-20,2014,Percent,0.36858
+County,Marin,0-20,2014,Percent,0.67756
+County,Marin,0-3,2015,Percent,0.66412
+County,Marin,4-5,2015,Percent,0.78042
+County,Marin,6-8,2015,Percent,0.76809
+County,Marin,9-11,2015,Percent,0.736
+County,Marin,12-14,2015,Percent,0.64723
+County,Marin,15-18,2015,Percent,0.53843
+County,Marin,19-20,2015,Percent,0.36344
+County,Marin,0-20,2015,Percent,0.66365
+County,Mariposa,0-3,2013,Percent,0.14
+County,Mariposa,4-5,2013,Percent,0.43
+County,Mariposa,6-8,2013,Percent,0.54
+County,Mariposa,9-11,2013,Percent,0.54
+County,Mariposa,12-14,2013,Percent,0.48
+County,Mariposa,15-18,2013,Percent,0.5
+County,Mariposa,19-20,2013,Percent,0.25
+County,Mariposa,0-20,2013,Percent,0.42
+County,Mariposa,0-3,2014,Percent,0.13169
+County,Mariposa,4-5,2014,Percent,0.36242
+County,Mariposa,6-8,2014,Percent,0.50661
+County,Mariposa,9-11,2014,Percent,0.53623
+County,Mariposa,12-14,2014,Percent,0.46575
+County,Mariposa,15-18,2014,Percent,0.40467
+County,Mariposa,19-20,2014,Percent,0.24074
+County,Mariposa,0-20,2014,Percent,0.38582
+County,Mariposa,0-3,2015,Percent,0.10204
+County,Mariposa,4-5,2015,Percent,0.34459
+County,Mariposa,6-8,2015,Percent,0.39111
+County,Mariposa,9-11,2015,Percent,0.46957
+County,Mariposa,12-14,2015,Percent,0.42424
+County,Mariposa,15-18,2015,Percent,0.38721
+County,Mariposa,19-20,2015,Percent,0.29412
+County,Mariposa,0-20,2015,Percent,0.34783
+County,Mendocino,0-3,2013,Percent,0.34
+County,Mendocino,4-5,2013,Percent,0.62
+County,Mendocino,6-8,2013,Percent,0.63
+County,Mendocino,9-11,2013,Percent,0.64
+County,Mendocino,12-14,2013,Percent,0.57
+County,Mendocino,15-18,2013,Percent,0.52
+County,Mendocino,19-20,2013,Percent,0.33
+County,Mendocino,0-20,2013,Percent,0.53
+County,Mendocino,0-3,2014,Percent,0.33635
+County,Mendocino,4-5,2014,Percent,0.57535
+County,Mendocino,6-8,2014,Percent,0.60108
+County,Mendocino,9-11,2014,Percent,0.57406
+County,Mendocino,12-14,2014,Percent,0.53031
+County,Mendocino,15-18,2014,Percent,0.47909
+County,Mendocino,19-20,2014,Percent,0.34107
+County,Mendocino,0-20,2014,Percent,0.49683
+County,Mendocino,0-3,2015,Percent,0.38053
+County,Mendocino,4-5,2015,Percent,0.5908
+County,Mendocino,6-8,2015,Percent,0.59517
+County,Mendocino,9-11,2015,Percent,0.60522
+County,Mendocino,12-14,2015,Percent,0.5314
+County,Mendocino,15-18,2015,Percent,0.47877
+County,Mendocino,19-20,2015,Percent,0.3218
+County,Mendocino,0-20,2015,Percent,0.50846
+County,Merced,0-3,2013,Percent,0.25
+County,Merced,4-5,2013,Percent,0.61
+County,Merced,6-8,2013,Percent,0.63
+County,Merced,9-11,2013,Percent,0.6
+County,Merced,12-14,2013,Percent,0.52
+County,Merced,15-18,2013,Percent,0.46
+County,Merced,19-20,2013,Percent,0.35
+County,Merced,0-20,2013,Percent,0.49
+County,Merced,0-3,2014,Percent,0.22475
+County,Merced,4-5,2014,Percent,0.5501
+County,Merced,6-8,2014,Percent,0.58206
+County,Merced,9-11,2014,Percent,0.55751
+County,Merced,12-14,2014,Percent,0.51234
+County,Merced,15-18,2014,Percent,0.45152
+County,Merced,19-20,2014,Percent,0.32411
+County,Merced,0-20,2014,Percent,0.46156
+County,Merced,0-3,2015,Percent,0.26609
+County,Merced,4-5,2015,Percent,0.55695
+County,Merced,6-8,2015,Percent,0.58437
+County,Merced,9-11,2015,Percent,0.55263
+County,Merced,12-14,2015,Percent,0.51448
+County,Merced,15-18,2015,Percent,0.45317
+County,Merced,19-20,2015,Percent,0.31844
+County,Merced,0-20,2015,Percent,0.46934
+County,Modoc,0-3,2013,Percent,0.36
+County,Modoc,4-5,2013,Percent,0.55
+County,Modoc,6-8,2013,Percent,0.46
+County,Modoc,9-11,2013,Percent,0.49
+County,Modoc,12-14,2013,Percent,0.47
+County,Modoc,15-18,2013,Percent,0.42
+County,Modoc,19-20,2013,Percent,0.38
+County,Modoc,0-20,2013,Percent,0.44
+County,Modoc,0-3,2014,Percent,0.33987
+County,Modoc,4-5,2014,Percent,0.68269
+County,Modoc,6-8,2014,Percent,0.48649
+County,Modoc,9-11,2014,Percent,0.51969
+County,Modoc,12-14,2014,Percent,0.47934
+County,Modoc,15-18,2014,Percent,0.45752
+County,Modoc,19-20,2014,Percent,0.32
+County,Modoc,0-20,2014,Percent,0.47313
+County,Modoc,0-3,2015,Percent,0.29474
+County,Modoc,4-5,2015,Percent,0.50382
+County,Modoc,6-8,2015,Percent,0.51445
+County,Modoc,9-11,2015,Percent,0.48485
+County,Modoc,12-14,2015,Percent,0.61111
+County,Modoc,15-18,2015,Percent,0.41341
+County,Modoc,19-20,2015,Percent,0.38028
+County,Modoc,0-20,2015,Percent,0.45584
+County,Mono,0-3,2013,Percent,0.5
+County,Mono,4-5,2013,Percent,0.74
+County,Mono,6-8,2013,Percent,0.72
+County,Mono,9-11,2013,Percent,0.61
+County,Mono,12-14,2013,Percent,NA
+County,Mono,15-18,2013,Percent,0.52
+County,Mono,19-20,2013,Percent,NA
+County,Mono,0-20,2013,Percent,0.58
+County,Mono,0-3,2014,Percent,0.36965
+County,Mono,4-5,2014,Percent,0.68182
+County,Mono,6-8,2014,Percent,0.70435
+County,Mono,9-11,2014,Percent,0.6
+County,Mono,12-14,2014,Percent,0.65244
+County,Mono,15-18,2014,Percent,0.52096
+County,Mono,19-20,2014,Percent,0.36986
+County,Mono,0-20,2014,Percent,0.5627
+County,Mono,0-3,2015,Percent,0.47719
+County,Mono,4-5,2015,Percent,0.7052
+County,Mono,6-8,2015,Percent,0.69362
+County,Mono,9-11,2015,Percent,0.65504
+County,Mono,12-14,2015,Percent,0.62069
+County,Mono,15-18,2015,Percent,0.52804
+County,Mono,19-20,2015,Percent,0.32979
+County,Mono,0-20,2015,Percent,0.58824
+County,Monterey,0-3,2013,Percent,0.52
+County,Monterey,4-5,2013,Percent,0.8
+County,Monterey,6-8,2013,Percent,0.78
+County,Monterey,9-11,2013,Percent,0.73
+County,Monterey,12-14,2013,Percent,0.65
+County,Monterey,15-18,2013,Percent,0.57
+County,Monterey,19-20,2013,Percent,0.37
+County,Monterey,0-20,2013,Percent,0.66
+County,Monterey,0-3,2014,Percent,0.49118
+County,Monterey,4-5,2014,Percent,0.78381
+County,Monterey,6-8,2014,Percent,0.77207
+County,Monterey,9-11,2014,Percent,0.72135
+County,Monterey,12-14,2014,Percent,0.66846
+County,Monterey,15-18,2014,Percent,0.5713
+County,Monterey,19-20,2014,Percent,0.35513
+County,Monterey,0-20,2014,Percent,0.64589
+County,Monterey,0-3,2015,Percent,0.50187
+County,Monterey,4-5,2015,Percent,0.77145
+County,Monterey,6-8,2015,Percent,0.75311
+County,Monterey,9-11,2015,Percent,0.70161
+County,Monterey,12-14,2015,Percent,0.64473
+County,Monterey,15-18,2015,Percent,0.51211
+County,Monterey,19-20,2015,Percent,0.31395
+County,Monterey,0-20,2015,Percent,0.62359
+County,Napa,0-3,2013,Percent,0.45
+County,Napa,4-5,2013,Percent,0.7
+County,Napa,6-8,2013,Percent,0.73
+County,Napa,9-11,2013,Percent,0.66
+County,Napa,12-14,2013,Percent,0.61
+County,Napa,15-18,2013,Percent,0.5
+County,Napa,19-20,2013,Percent,0.35
+County,Napa,0-20,2013,Percent,0.59
+County,Napa,0-3,2014,Percent,0.47228
+County,Napa,4-5,2014,Percent,0.66487
+County,Napa,6-8,2014,Percent,0.71087
+County,Napa,9-11,2014,Percent,0.66318
+County,Napa,12-14,2014,Percent,0.59236
+County,Napa,15-18,2014,Percent,0.51429
+County,Napa,19-20,2014,Percent,0.28504
+County,Napa,0-20,2014,Percent,0.58343
+County,Napa,0-3,2015,Percent,0.43182
+County,Napa,4-5,2015,Percent,0.64403
+County,Napa,6-8,2015,Percent,0.66486
+County,Napa,9-11,2015,Percent,0.63819
+County,Napa,12-14,2015,Percent,0.55666
+County,Napa,15-18,2015,Percent,0.49128
+County,Napa,19-20,2015,Percent,0.29048
+County,Napa,0-20,2015,Percent,0.5498
+County,Nevada,0-3,2013,Percent,0.28
+County,Nevada,4-5,2013,Percent,0.58
+County,Nevada,6-8,2013,Percent,0.59
+County,Nevada,9-11,2013,Percent,0.59
+County,Nevada,12-14,2013,Percent,0.52
+County,Nevada,15-18,2013,Percent,0.45
+County,Nevada,19-20,2013,Percent,0.3
+County,Nevada,0-20,2013,Percent,0.47
+County,Nevada,0-3,2014,Percent,0.17255
+County,Nevada,4-5,2014,Percent,0.45767
+County,Nevada,6-8,2014,Percent,0.47678
+County,Nevada,9-11,2014,Percent,0.4552
+County,Nevada,12-14,2014,Percent,0.40548
+County,Nevada,15-18,2014,Percent,0.36917
+County,Nevada,19-20,2014,Percent,0.27536
+County,Nevada,0-20,2014,Percent,0.37338
+County,Nevada,0-3,2015,Percent,0.21582
+County,Nevada,4-5,2015,Percent,0.3939
+County,Nevada,6-8,2015,Percent,0.44787
+County,Nevada,9-11,2015,Percent,0.43142
+County,Nevada,12-14,2015,Percent,0.40033
+County,Nevada,15-18,2015,Percent,0.31912
+County,Nevada,19-20,2015,Percent,0.23248
+County,Nevada,0-20,2015,Percent,0.35216
+County,Orange,0-3,2013,Percent,0.38
+County,Orange,4-5,2013,Percent,0.73
+County,Orange,6-8,2013,Percent,0.75
+County,Orange,9-11,2013,Percent,0.72
+County,Orange,12-14,2013,Percent,0.65
+County,Orange,15-18,2013,Percent,0.56
+County,Orange,19-20,2013,Percent,0.43
+County,Orange,0-20,2013,Percent,0.61
+County,Orange,0-3,2014,Percent,0.35838
+County,Orange,4-5,2014,Percent,0.68657
+County,Orange,6-8,2014,Percent,0.71609
+County,Orange,9-11,2014,Percent,0.67448
+County,Orange,12-14,2014,Percent,0.60775
+County,Orange,15-18,2014,Percent,0.52183
+County,Orange,19-20,2014,Percent,0.39142
+County,Orange,0-20,2014,Percent,0.57699
+County,Orange,0-3,2015,Percent,0.36261
+County,Orange,4-5,2015,Percent,0.65645
+County,Orange,6-8,2015,Percent,0.69089
+County,Orange,9-11,2015,Percent,0.65575
+County,Orange,12-14,2015,Percent,0.58298
+County,Orange,15-18,2015,Percent,0.49574
+County,Orange,19-20,2015,Percent,0.36212
+County,Orange,0-20,2015,Percent,0.55353
+County,Placer,0-3,2013,Percent,0.24
+County,Placer,4-5,2013,Percent,0.51
+County,Placer,6-8,2013,Percent,0.57
+County,Placer,9-11,2013,Percent,0.51
+County,Placer,12-14,2013,Percent,0.47
+County,Placer,15-18,2013,Percent,0.43
+County,Placer,19-20,2013,Percent,0.31
+County,Placer,0-20,2013,Percent,0.44
+County,Placer,0-3,2014,Percent,0.21735
+County,Placer,4-5,2014,Percent,0.437
+County,Placer,6-8,2014,Percent,0.49986
+County,Placer,9-11,2014,Percent,0.48058
+County,Placer,12-14,2014,Percent,0.41546
+County,Placer,15-18,2014,Percent,0.37165
+County,Placer,19-20,2014,Percent,0.2421
+County,Placer,0-20,2014,Percent,0.39172
+County,Placer,0-3,2015,Percent,0.24091
+County,Placer,4-5,2015,Percent,0.44865
+County,Placer,6-8,2015,Percent,0.49567
+County,Placer,9-11,2015,Percent,0.47285
+County,Placer,12-14,2015,Percent,0.4164
+County,Placer,15-18,2015,Percent,0.37209
+County,Placer,19-20,2015,Percent,0.25406
+County,Placer,0-20,2015,Percent,0.39422
+County,Plumas,0-3,2013,Percent,0.28
+County,Plumas,4-5,2013,Percent,0.61
+County,Plumas,6-8,2013,Percent,0.63
+County,Plumas,9-11,2013,Percent,0.62
+County,Plumas,12-14,2013,Percent,0.52
+County,Plumas,15-18,2013,Percent,0.48
+County,Plumas,19-20,2013,Percent,0.38
+County,Plumas,0-20,2013,Percent,0.5
+County,Plumas,0-3,2014,Percent,0.24407
+County,Plumas,4-5,2014,Percent,0.51462
+County,Plumas,6-8,2014,Percent,0.59289
+County,Plumas,9-11,2014,Percent,0.52119
+County,Plumas,12-14,2014,Percent,0.55238
+County,Plumas,15-18,2014,Percent,0.45802
+County,Plumas,19-20,2014,Percent,0.33663
+County,Plumas,0-20,2014,Percent,0.46008
+County,Plumas,0-3,2015,Percent,0.28363
+County,Plumas,4-5,2015,Percent,0.51323
+County,Plumas,6-8,2015,Percent,0.64214
+County,Plumas,9-11,2015,Percent,0.58175
+County,Plumas,12-14,2015,Percent,0.49804
+County,Plumas,15-18,2015,Percent,0.46644
+County,Plumas,19-20,2015,Percent,0.41791
+County,Plumas,0-20,2015,Percent,0.48371
+County,Riverside,0-3,2013,Percent,0.24
+County,Riverside,4-5,2013,Percent,0.62
+County,Riverside,6-8,2013,Percent,0.66
+County,Riverside,9-11,2013,Percent,0.63
+County,Riverside,12-14,2013,Percent,0.57
+County,Riverside,15-18,2013,Percent,0.51
+County,Riverside,19-20,2013,Percent,0.38
+County,Riverside,0-20,2013,Percent,0.52
+County,Riverside,0-3,2014,Percent,0.21989
+County,Riverside,4-5,2014,Percent,0.57676
+County,Riverside,6-8,2014,Percent,0.62268
+County,Riverside,9-11,2014,Percent,0.59694
+County,Riverside,12-14,2014,Percent,0.53736
+County,Riverside,15-18,2014,Percent,0.47703
+County,Riverside,19-20,2014,Percent,0.34736
+County,Riverside,0-20,2014,Percent,0.48783
+County,Riverside,0-3,2015,Percent,0.23172
+County,Riverside,4-5,2015,Percent,0.54696
+County,Riverside,6-8,2015,Percent,0.60448
+County,Riverside,9-11,2015,Percent,0.5759
+County,Riverside,12-14,2015,Percent,0.51518
+County,Riverside,15-18,2015,Percent,0.45951
+County,Riverside,19-20,2015,Percent,0.32021
+County,Riverside,0-20,2015,Percent,0.4716
+County,Sacramento,0-3,2013,Percent,0.14
+County,Sacramento,4-5,2013,Percent,0.38
+County,Sacramento,6-8,2013,Percent,0.36
+County,Sacramento,9-11,2013,Percent,0.33
+County,Sacramento,12-14,2013,Percent,0.34
+County,Sacramento,15-18,2013,Percent,0.37
+County,Sacramento,19-20,2013,Percent,0.26
+County,Sacramento,0-20,2013,Percent,0.32
+County,Sacramento,0-3,2014,Percent,0.11509
+County,Sacramento,4-5,2014,Percent,0.27925
+County,Sacramento,6-8,2014,Percent,0.33479
+County,Sacramento,9-11,2014,Percent,0.3145
+County,Sacramento,12-14,2014,Percent,0.29392
+County,Sacramento,15-18,2014,Percent,0.3252
+County,Sacramento,19-20,2014,Percent,0.21822
+County,Sacramento,0-20,2014,Percent,0.26745
+County,Sacramento,0-3,2015,Percent,0.12135
+County,Sacramento,4-5,2015,Percent,0.2457
+County,Sacramento,6-8,2015,Percent,0.33353
+County,Sacramento,9-11,2015,Percent,0.31841
+County,Sacramento,12-14,2015,Percent,0.28366
+County,Sacramento,15-18,2015,Percent,0.29879
+County,Sacramento,19-20,2015,Percent,0.19617
+County,Sacramento,0-20,2015,Percent,0.25438
+County,San Benito,0-3,2013,Percent,0.48
+County,San Benito,4-5,2013,Percent,0.71
+County,San Benito,6-8,2013,Percent,0.66
+County,San Benito,9-11,2013,Percent,0.63
+County,San Benito,12-14,2013,Percent,0.59
+County,San Benito,15-18,2013,Percent,0.5
+County,San Benito,19-20,2013,Percent,0.32
+County,San Benito,0-20,2013,Percent,0.57
+County,San Benito,0-3,2014,Percent,0.39203
+County,San Benito,4-5,2014,Percent,0.67181
+County,San Benito,6-8,2014,Percent,0.66905
+County,San Benito,9-11,2014,Percent,0.63666
+County,San Benito,12-14,2014,Percent,0.55657
+County,San Benito,15-18,2014,Percent,0.53525
+County,San Benito,19-20,2014,Percent,0.31618
+County,San Benito,0-20,2014,Percent,0.54907
+County,San Benito,0-3,2015,Percent,0.39832
+County,San Benito,4-5,2015,Percent,0.63743
+County,San Benito,6-8,2015,Percent,0.61552
+County,San Benito,9-11,2015,Percent,0.63244
+County,San Benito,12-14,2015,Percent,0.52991
+County,San Benito,15-18,2015,Percent,0.4549
+County,San Benito,19-20,2015,Percent,0.33491
+County,San Benito,0-20,2015,Percent,0.52317
+County,San Bernardino,0-3,2013,Percent,0.25
+County,San Bernardino,4-5,2013,Percent,0.6
+County,San Bernardino,6-8,2013,Percent,0.64
+County,San Bernardino,9-11,2013,Percent,0.61
+County,San Bernardino,12-14,2013,Percent,0.55
+County,San Bernardino,15-18,2013,Percent,0.5
+County,San Bernardino,19-20,2013,Percent,0.38
+County,San Bernardino,0-20,2013,Percent,0.51
+County,San Bernardino,0-3,2014,Percent,0.24564
+County,San Bernardino,4-5,2014,Percent,0.58079
+County,San Bernardino,6-8,2014,Percent,0.6381
+County,San Bernardino,9-11,2014,Percent,0.6046
+County,San Bernardino,12-14,2014,Percent,0.55418
+County,San Bernardino,15-18,2014,Percent,0.48756
+County,San Bernardino,19-20,2014,Percent,0.34967
+County,San Bernardino,0-20,2014,Percent,0.50169
+County,San Bernardino,0-3,2015,Percent,0.25845
+County,San Bernardino,4-5,2015,Percent,0.57201
+County,San Bernardino,6-8,2015,Percent,0.61324
+County,San Bernardino,9-11,2015,Percent,0.58176
+County,San Bernardino,12-14,2015,Percent,0.52955
+County,San Bernardino,15-18,2015,Percent,0.46476
+County,San Bernardino,19-20,2015,Percent,0.33335
+County,San Bernardino,0-20,2015,Percent,0.48481
+County,San Diego,0-3,2013,Percent,0.41
+County,San Diego,4-5,2013,Percent,0.72
+County,San Diego,6-8,2013,Percent,0.7
+County,San Diego,9-11,2013,Percent,0.65
+County,San Diego,12-14,2013,Percent,0.58
+County,San Diego,15-18,2013,Percent,0.51
+County,San Diego,19-20,2013,Percent,0.36
+County,San Diego,0-20,2013,Percent,0.57
+County,San Diego,0-3,2014,Percent,0.37992
+County,San Diego,4-5,2014,Percent,0.67751
+County,San Diego,6-8,2014,Percent,0.68151
+County,San Diego,9-11,2014,Percent,0.63609
+County,San Diego,12-14,2014,Percent,0.56061
+County,San Diego,15-18,2014,Percent,0.47093
+County,San Diego,19-20,2014,Percent,0.32963
+County,San Diego,0-20,2014,Percent,0.54463
+County,San Diego,0-3,2015,Percent,0.37739
+County,San Diego,4-5,2015,Percent,0.63851
+County,San Diego,6-8,2015,Percent,0.64681
+County,San Diego,9-11,2015,Percent,0.60332
+County,San Diego,12-14,2015,Percent,0.53058
+County,San Diego,15-18,2015,Percent,0.44314
+County,San Diego,19-20,2015,Percent,0.30145
+County,San Diego,0-20,2015,Percent,0.51367
+County,San Francisco,0-3,2013,Percent,0.43
+County,San Francisco,4-5,2013,Percent,0.68
+County,San Francisco,6-8,2013,Percent,0.67
+County,San Francisco,9-11,2013,Percent,0.65
+County,San Francisco,12-14,2013,Percent,0.59
+County,San Francisco,15-18,2013,Percent,0.54
+County,San Francisco,19-20,2013,Percent,0.4
+County,San Francisco,0-20,2013,Percent,0.57
+County,San Francisco,0-3,2014,Percent,0.45103
+County,San Francisco,4-5,2014,Percent,0.64868
+County,San Francisco,6-8,2014,Percent,0.66948
+County,San Francisco,9-11,2014,Percent,0.63043
+County,San Francisco,12-14,2014,Percent,0.57508
+County,San Francisco,15-18,2014,Percent,0.50192
+County,San Francisco,19-20,2014,Percent,0.3577
+County,San Francisco,0-20,2014,Percent,0.5551
+County,San Francisco,0-3,2015,Percent,0.45155
+County,San Francisco,4-5,2015,Percent,0.64749
+County,San Francisco,6-8,2015,Percent,0.66425
+County,San Francisco,9-11,2015,Percent,0.63747
+County,San Francisco,12-14,2015,Percent,0.56222
+County,San Francisco,15-18,2015,Percent,0.49441
+County,San Francisco,19-20,2015,Percent,0.35511
+County,San Francisco,0-20,2015,Percent,0.55035
+County,San Joaquin,0-3,2013,Percent,0.2
+County,San Joaquin,4-5,2013,Percent,0.59
+County,San Joaquin,6-8,2013,Percent,0.6
+County,San Joaquin,9-11,2013,Percent,0.57
+County,San Joaquin,12-14,2013,Percent,0.5
+County,San Joaquin,15-18,2013,Percent,0.44
+County,San Joaquin,19-20,2013,Percent,0.32
+County,San Joaquin,0-20,2013,Percent,0.46
+County,San Joaquin,0-3,2014,Percent,0.1841
+County,San Joaquin,4-5,2014,Percent,0.54808
+County,San Joaquin,6-8,2014,Percent,0.5881
+County,San Joaquin,9-11,2014,Percent,0.55589
+County,San Joaquin,12-14,2014,Percent,0.49874
+County,San Joaquin,15-18,2014,Percent,0.42537
+County,San Joaquin,19-20,2014,Percent,0.30956
+County,San Joaquin,0-20,2014,Percent,0.4504
+County,San Joaquin,0-3,2015,Percent,0.18624
+County,San Joaquin,4-5,2015,Percent,0.52114
+County,San Joaquin,6-8,2015,Percent,0.56684
+County,San Joaquin,9-11,2015,Percent,0.54026
+County,San Joaquin,12-14,2015,Percent,0.48545
+County,San Joaquin,15-18,2015,Percent,0.41938
+County,San Joaquin,19-20,2015,Percent,0.28687
+County,San Joaquin,0-20,2015,Percent,0.43593
+County,San Luis Obispo,0-3,2013,Percent,0.52
+County,San Luis Obispo,4-5,2013,Percent,0.73
+County,San Luis Obispo,6-8,2013,Percent,0.73
+County,San Luis Obispo,9-11,2013,Percent,0.69
+County,San Luis Obispo,12-14,2013,Percent,0.57
+County,San Luis Obispo,15-18,2013,Percent,0.47
+County,San Luis Obispo,19-20,2013,Percent,0.36
+County,San Luis Obispo,0-20,2013,Percent,0.6
+County,San Luis Obispo,0-3,2014,Percent,0.44451
+County,San Luis Obispo,4-5,2014,Percent,0.67197
+County,San Luis Obispo,6-8,2014,Percent,0.67004
+County,San Luis Obispo,9-11,2014,Percent,0.63837
+County,San Luis Obispo,12-14,2014,Percent,0.53676
+County,San Luis Obispo,15-18,2014,Percent,0.41684
+County,San Luis Obispo,19-20,2014,Percent,0.23942
+County,San Luis Obispo,0-20,2014,Percent,0.54139
+County,San Luis Obispo,0-3,2015,Percent,0.48843
+County,San Luis Obispo,4-5,2015,Percent,0.63541
+County,San Luis Obispo,6-8,2015,Percent,0.66203
+County,San Luis Obispo,9-11,2015,Percent,0.6221
+County,San Luis Obispo,12-14,2015,Percent,0.54517
+County,San Luis Obispo,15-18,2015,Percent,0.40921
+County,San Luis Obispo,19-20,2015,Percent,0.22752
+County,San Luis Obispo,0-20,2015,Percent,0.53357
+County,San Mateo,0-3,2013,Percent,0.35
+County,San Mateo,4-5,2013,Percent,0.65
+County,San Mateo,6-8,2013,Percent,0.68
+County,San Mateo,9-11,2013,Percent,0.65
+County,San Mateo,12-14,2013,Percent,0.58
+County,San Mateo,15-18,2013,Percent,0.47
+County,San Mateo,19-20,2013,Percent,0.33
+County,San Mateo,0-20,2013,Percent,0.55
+County,San Mateo,0-3,2014,Percent,0.30289
+County,San Mateo,4-5,2014,Percent,0.58797
+County,San Mateo,6-8,2014,Percent,0.63876
+County,San Mateo,9-11,2014,Percent,0.61952
+County,San Mateo,12-14,2014,Percent,0.5536
+County,San Mateo,15-18,2014,Percent,0.44247
+County,San Mateo,19-20,2014,Percent,0.29935
+County,San Mateo,0-20,2014,Percent,0.50435
+County,San Mateo,0-3,2015,Percent,0.34532
+County,San Mateo,4-5,2015,Percent,0.56611
+County,San Mateo,6-8,2015,Percent,0.60796
+County,San Mateo,9-11,2015,Percent,0.57781
+County,San Mateo,12-14,2015,Percent,0.51951
+County,San Mateo,15-18,2015,Percent,0.40519
+County,San Mateo,19-20,2015,Percent,0.25908
+County,San Mateo,0-20,2015,Percent,0.4815
+County,Santa Barbara,0-3,2013,Percent,0.34
+County,Santa Barbara,4-5,2013,Percent,0.72
+County,Santa Barbara,6-8,2013,Percent,0.73
+County,Santa Barbara,9-11,2013,Percent,0.66
+County,Santa Barbara,12-14,2013,Percent,0.57
+County,Santa Barbara,15-18,2013,Percent,0.53
+County,Santa Barbara,19-20,2013,Percent,0.35
+County,Santa Barbara,0-20,2013,Percent,0.57
+County,Santa Barbara,0-3,2014,Percent,0.32573
+County,Santa Barbara,4-5,2014,Percent,0.70584
+County,Santa Barbara,6-8,2014,Percent,0.72245
+County,Santa Barbara,9-11,2014,Percent,0.66814
+County,Santa Barbara,12-14,2014,Percent,0.569
+County,Santa Barbara,15-18,2014,Percent,0.51458
+County,Santa Barbara,19-20,2014,Percent,0.34433
+County,Santa Barbara,0-20,2014,Percent,0.5643
+County,Santa Barbara,0-3,2015,Percent,0.31919
+County,Santa Barbara,4-5,2015,Percent,0.66953
+County,Santa Barbara,6-8,2015,Percent,0.69209
+County,Santa Barbara,9-11,2015,Percent,0.64769
+County,Santa Barbara,12-14,2015,Percent,0.54349
+County,Santa Barbara,15-18,2015,Percent,0.47523
+County,Santa Barbara,19-20,2015,Percent,0.31153
+County,Santa Barbara,0-20,2015,Percent,0.53681
+County,Santa Clara,0-3,2013,Percent,0.32
+County,Santa Clara,4-5,2013,Percent,0.69
+County,Santa Clara,6-8,2013,Percent,0.71
+County,Santa Clara,9-11,2013,Percent,0.68
+County,Santa Clara,12-14,2013,Percent,0.62
+County,Santa Clara,15-18,2013,Percent,0.55
+County,Santa Clara,19-20,2013,Percent,0.4
+County,Santa Clara,0-20,2013,Percent,0.58
+County,Santa Clara,0-3,2014,Percent,0.3093
+County,Santa Clara,4-5,2014,Percent,0.67791
+County,Santa Clara,6-8,2014,Percent,0.68654
+County,Santa Clara,9-11,2014,Percent,0.65411
+County,Santa Clara,12-14,2014,Percent,0.60555
+County,Santa Clara,15-18,2014,Percent,0.51701
+County,Santa Clara,19-20,2014,Percent,0.35771
+County,Santa Clara,0-20,2014,Percent,0.555
+County,Santa Clara,0-3,2015,Percent,0.316
+County,Santa Clara,4-5,2015,Percent,0.63753
+County,Santa Clara,6-8,2015,Percent,0.65727
+County,Santa Clara,9-11,2015,Percent,0.6206
+County,Santa Clara,12-14,2015,Percent,0.56543
+County,Santa Clara,15-18,2015,Percent,0.47662
+County,Santa Clara,19-20,2015,Percent,0.3338
+County,Santa Clara,0-20,2015,Percent,0.5241
+County,Santa Cruz,0-3,2013,Percent,0.48
+County,Santa Cruz,4-5,2013,Percent,0.74
+County,Santa Cruz,6-8,2013,Percent,0.74
+County,Santa Cruz,9-11,2013,Percent,0.71
+County,Santa Cruz,12-14,2013,Percent,0.62
+County,Santa Cruz,15-18,2013,Percent,0.54
+County,Santa Cruz,19-20,2013,Percent,0.38
+County,Santa Cruz,0-20,2013,Percent,0.62
+County,Santa Cruz,0-3,2014,Percent,0.43678
+County,Santa Cruz,4-5,2014,Percent,0.70622
+County,Santa Cruz,6-8,2014,Percent,0.69967
+County,Santa Cruz,9-11,2014,Percent,0.67472
+County,Santa Cruz,12-14,2014,Percent,0.60057
+County,Santa Cruz,15-18,2014,Percent,0.51897
+County,Santa Cruz,19-20,2014,Percent,0.34122
+County,Santa Cruz,0-20,2014,Percent,0.58687
+County,Santa Cruz,0-3,2015,Percent,0.42791
+County,Santa Cruz,4-5,2015,Percent,0.67265
+County,Santa Cruz,6-8,2015,Percent,0.68852
+County,Santa Cruz,9-11,2015,Percent,0.65148
+County,Santa Cruz,12-14,2015,Percent,0.58124
+County,Santa Cruz,15-18,2015,Percent,0.49632
+County,Santa Cruz,19-20,2015,Percent,0.34087
+County,Santa Cruz,0-20,2015,Percent,0.56608
+County,Shasta,0-3,2013,Percent,0.23
+County,Shasta,4-5,2013,Percent,0.51
+County,Shasta,6-8,2013,Percent,0.54
+County,Shasta,9-11,2013,Percent,0.49
+County,Shasta,12-14,2013,Percent,0.44
+County,Shasta,15-18,2013,Percent,0.43
+County,Shasta,19-20,2013,Percent,0.33
+County,Shasta,0-20,2013,Percent,0.42
+County,Shasta,0-3,2014,Percent,0.1884
+County,Shasta,4-5,2014,Percent,0.4756
+County,Shasta,6-8,2014,Percent,0.49901
+County,Shasta,9-11,2014,Percent,0.4648
+County,Shasta,12-14,2014,Percent,0.41533
+County,Shasta,15-18,2014,Percent,0.39565
+County,Shasta,19-20,2014,Percent,0.27641
+County,Shasta,0-20,2014,Percent,0.38825
+County,Shasta,0-3,2015,Percent,0.20824
+County,Shasta,4-5,2015,Percent,0.48492
+County,Shasta,6-8,2015,Percent,0.50388
+County,Shasta,9-11,2015,Percent,0.48501
+County,Shasta,12-14,2015,Percent,0.45463
+County,Shasta,15-18,2015,Percent,0.39746
+County,Shasta,19-20,2015,Percent,0.26189
+County,Shasta,0-20,2015,Percent,0.40104
+County,Sierra,0-3,2013,Percent,NA
+County,Sierra,4-5,2013,Percent,NA
+County,Sierra,6-8,2013,Percent,0.58
+County,Sierra,9-11,2013,Percent,NA
+County,Sierra,12-14,2013,Percent,NA
+County,Sierra,15-18,2013,Percent,0.36
+County,Sierra,19-20,2013,Percent,NA
+County,Sierra,0-20,2013,Percent,0.37
+County,Sierra,0-3,2014,Percent,NA
+County,Sierra,4-5,2014,Percent,NA
+County,Sierra,6-8,2014,Percent,0.42857
+County,Sierra,9-11,2014,Percent,0.43243
+County,Sierra,12-14,2014,Percent,0.42424
+County,Sierra,15-18,2014,Percent,0.41176
+County,Sierra,19-20,2014,Percent,NA
+County,Sierra,0-20,2014,Percent,0.33816
+County,Sierra,0-3,2015,Percent,NA
+County,Sierra,4-5,2015,Percent,NA
+County,Sierra,6-8,2015,Percent,NA
+County,Sierra,9-11,2015,Percent,0.42308
+County,Sierra,12-14,2015,Percent,0.33333
+County,Sierra,15-18,2015,Percent,NA
+County,Sierra,19-20,2015,Percent,NA
+County,Sierra,0-20,2015,Percent,0.25962
+County,Siskiyou,0-3,2013,Percent,0.12
+County,Siskiyou,4-5,2013,Percent,0.48
+County,Siskiyou,6-8,2013,Percent,0.42
+County,Siskiyou,9-11,2013,Percent,0.41
+County,Siskiyou,12-14,2013,Percent,0.38
+County,Siskiyou,15-18,2013,Percent,0.38
+County,Siskiyou,19-20,2013,Percent,0.25
+County,Siskiyou,0-20,2013,Percent,0.34
+County,Siskiyou,0-3,2014,Percent,0.13933
+County,Siskiyou,4-5,2014,Percent,0.44887
+County,Siskiyou,6-8,2014,Percent,0.39055
+County,Siskiyou,9-11,2014,Percent,0.37775
+County,Siskiyou,12-14,2014,Percent,0.33807
+County,Siskiyou,15-18,2014,Percent,0.31996
+County,Siskiyou,19-20,2014,Percent,0.23324
+County,Siskiyou,0-20,2014,Percent,0.31674
+County,Siskiyou,0-3,2015,Percent,0.15068
+County,Siskiyou,4-5,2015,Percent,0.42331
+County,Siskiyou,6-8,2015,Percent,0.42121
+County,Siskiyou,9-11,2015,Percent,0.3871
+County,Siskiyou,12-14,2015,Percent,0.38386
+County,Siskiyou,15-18,2015,Percent,0.37174
+County,Siskiyou,19-20,2015,Percent,0.20903
+County,Siskiyou,0-20,2015,Percent,0.33983
+County,Solano,0-3,2013,Percent,0.31
+County,Solano,4-5,2013,Percent,0.6
+County,Solano,6-8,2013,Percent,0.55
+County,Solano,9-11,2013,Percent,0.5
+County,Solano,12-14,2013,Percent,0.44
+County,Solano,15-18,2013,Percent,0.41
+County,Solano,19-20,2013,Percent,0.29
+County,Solano,0-20,2013,Percent,0.45
+County,Solano,0-3,2014,Percent,0.23993
+County,Solano,4-5,2014,Percent,0.51583
+County,Solano,6-8,2014,Percent,0.50422
+County,Solano,9-11,2014,Percent,0.47927
+County,Solano,12-14,2014,Percent,0.42796
+County,Solano,15-18,2014,Percent,0.39503
+County,Solano,19-20,2014,Percent,0.25805
+County,Solano,0-20,2014,Percent,0.4109
+County,Solano,0-3,2015,Percent,0.24707
+County,Solano,4-5,2015,Percent,0.50381
+County,Solano,6-8,2015,Percent,0.50059
+County,Solano,9-11,2015,Percent,0.47087
+County,Solano,12-14,2015,Percent,0.41506
+County,Solano,15-18,2015,Percent,0.36601
+County,Solano,19-20,2015,Percent,0.25971
+County,Solano,0-20,2015,Percent,0.40088
+County,Sonoma,0-3,2013,Percent,0.48
+County,Sonoma,4-5,2013,Percent,0.69
+County,Sonoma,6-8,2013,Percent,0.67
+County,Sonoma,9-11,2013,Percent,0.63
+County,Sonoma,12-14,2013,Percent,0.56
+County,Sonoma,15-18,2013,Percent,0.48
+County,Sonoma,19-20,2013,Percent,0.33
+County,Sonoma,0-20,2013,Percent,0.57
+County,Sonoma,0-3,2014,Percent,0.47126
+County,Sonoma,4-5,2014,Percent,0.66018
+County,Sonoma,6-8,2014,Percent,0.66071
+County,Sonoma,9-11,2014,Percent,0.62598
+County,Sonoma,12-14,2014,Percent,0.5722
+County,Sonoma,15-18,2014,Percent,0.45901
+County,Sonoma,19-20,2014,Percent,0.29577
+County,Sonoma,0-20,2014,Percent,0.55649
+County,Sonoma,0-3,2015,Percent,0.44693
+County,Sonoma,4-5,2015,Percent,0.63555
+County,Sonoma,6-8,2015,Percent,0.64124
+County,Sonoma,9-11,2015,Percent,0.62369
+County,Sonoma,12-14,2015,Percent,0.55112
+County,Sonoma,15-18,2015,Percent,0.45855
+County,Sonoma,19-20,2015,Percent,0.28015
+County,Sonoma,0-20,2015,Percent,0.53849
+County,Stanislaus,0-3,2013,Percent,0.2
+County,Stanislaus,4-5,2013,Percent,0.58
+County,Stanislaus,6-8,2013,Percent,0.58
+County,Stanislaus,9-11,2013,Percent,0.53
+County,Stanislaus,12-14,2013,Percent,0.48
+County,Stanislaus,15-18,2013,Percent,0.43
+County,Stanislaus,19-20,2013,Percent,0.33
+County,Stanislaus,0-20,2013,Percent,0.45
+County,Stanislaus,0-3,2014,Percent,0.20362
+County,Stanislaus,4-5,2014,Percent,0.55846
+County,Stanislaus,6-8,2014,Percent,0.5782
+County,Stanislaus,9-11,2014,Percent,0.52925
+County,Stanislaus,12-14,2014,Percent,0.47469
+County,Stanislaus,15-18,2014,Percent,0.41449
+County,Stanislaus,19-20,2014,Percent,0.29105
+County,Stanislaus,0-20,2014,Percent,0.44035
+County,Stanislaus,0-3,2015,Percent,0.21587
+County,Stanislaus,4-5,2015,Percent,0.55013
+County,Stanislaus,6-8,2015,Percent,0.57311
+County,Stanislaus,9-11,2015,Percent,0.52365
+County,Stanislaus,12-14,2015,Percent,0.46132
+County,Stanislaus,15-18,2015,Percent,0.40883
+County,Stanislaus,19-20,2015,Percent,0.28644
+County,Stanislaus,0-20,2015,Percent,0.43589
+County,Sutter,0-3,2013,Percent,0.33
+County,Sutter,4-5,2013,Percent,0.66
+County,Sutter,6-8,2013,Percent,0.68
+County,Sutter,9-11,2013,Percent,0.62
+County,Sutter,12-14,2013,Percent,0.55
+County,Sutter,15-18,2013,Percent,0.49
+County,Sutter,19-20,2013,Percent,0.36
+County,Sutter,0-20,2013,Percent,0.54
+County,Sutter,0-3,2014,Percent,0.36899
+County,Sutter,4-5,2014,Percent,0.66646
+County,Sutter,6-8,2014,Percent,0.70409
+County,Sutter,9-11,2014,Percent,0.64788
+County,Sutter,12-14,2014,Percent,0.55534
+County,Sutter,15-18,2014,Percent,0.46815
+County,Sutter,19-20,2014,Percent,0.28571
+County,Sutter,0-20,2014,Percent,0.5451
+County,Sutter,0-3,2015,Percent,0.36294
+County,Sutter,4-5,2015,Percent,0.67079
+County,Sutter,6-8,2015,Percent,0.69299
+County,Sutter,9-11,2015,Percent,0.66423
+County,Sutter,12-14,2015,Percent,0.57562
+County,Sutter,15-18,2015,Percent,0.44984
+County,Sutter,19-20,2015,Percent,0.31492
+County,Sutter,0-20,2015,Percent,0.54655
+County,Tehama,0-3,2013,Percent,0.39
+County,Tehama,4-5,2013,Percent,0.71
+County,Tehama,6-8,2013,Percent,0.68
+County,Tehama,9-11,2013,Percent,0.64
+County,Tehama,12-14,2013,Percent,0.61
+County,Tehama,15-18,2013,Percent,0.55
+County,Tehama,19-20,2013,Percent,0.42
+County,Tehama,0-20,2013,Percent,0.58
+County,Tehama,0-3,2014,Percent,0.36798
+County,Tehama,4-5,2014,Percent,0.69217
+County,Tehama,6-8,2014,Percent,0.66629
+County,Tehama,9-11,2014,Percent,0.63348
+County,Tehama,12-14,2014,Percent,0.56259
+County,Tehama,15-18,2014,Percent,0.50278
+County,Tehama,19-20,2014,Percent,0.3476
+County,Tehama,0-20,2014,Percent,0.54921
+County,Tehama,0-3,2015,Percent,0.36778
+County,Tehama,4-5,2015,Percent,0.69152
+County,Tehama,6-8,2015,Percent,0.67697
+County,Tehama,9-11,2015,Percent,0.64323
+County,Tehama,12-14,2015,Percent,0.59944
+County,Tehama,15-18,2015,Percent,0.52866
+County,Tehama,19-20,2015,Percent,0.37104
+County,Tehama,0-20,2015,Percent,0.56368
+County,Trinity,0-3,2013,Percent,0.14
+County,Trinity,4-5,2013,Percent,0.5
+County,Trinity,6-8,2013,Percent,0.49
+County,Trinity,9-11,2013,Percent,0.46
+County,Trinity,12-14,2013,Percent,0.4
+County,Trinity,15-18,2013,Percent,0.37
+County,Trinity,19-20,2013,Percent,0.21
+County,Trinity,0-20,2013,Percent,0.37
+County,Trinity,0-3,2014,Percent,0.17031
+County,Trinity,4-5,2014,Percent,0.33333
+County,Trinity,6-8,2014,Percent,0.35514
+County,Trinity,9-11,2014,Percent,0.34375
+County,Trinity,12-14,2014,Percent,0.34239
+County,Trinity,15-18,2014,Percent,0.29771
+County,Trinity,19-20,2014,Percent,0.23256
+County,Trinity,0-20,2014,Percent,0.29819
+County,Trinity,0-3,2015,Percent,0.13258
+County,Trinity,4-5,2015,Percent,0.22917
+County,Trinity,6-8,2015,Percent,0.35714
+County,Trinity,9-11,2015,Percent,0.36161
+County,Trinity,12-14,2015,Percent,0.35802
+County,Trinity,15-18,2015,Percent,0.34211
+County,Trinity,19-20,2015,Percent,0.13934
+County,Trinity,0-20,2015,Percent,0.28514
+County,Tulare,0-3,2013,Percent,0.27
+County,Tulare,4-5,2013,Percent,0.63
+County,Tulare,6-8,2013,Percent,0.65
+County,Tulare,9-11,2013,Percent,0.61
+County,Tulare,12-14,2013,Percent,0.55
+County,Tulare,15-18,2013,Percent,0.48
+County,Tulare,19-20,2013,Percent,0.35
+County,Tulare,0-20,2013,Percent,0.51
+County,Tulare,0-3,2014,Percent,0.27895
+County,Tulare,4-5,2014,Percent,0.60936
+County,Tulare,6-8,2014,Percent,0.65296
+County,Tulare,9-11,2014,Percent,0.617
+County,Tulare,12-14,2014,Percent,0.55514
+County,Tulare,15-18,2014,Percent,0.49405
+County,Tulare,19-20,2014,Percent,0.35126
+County,Tulare,0-20,2014,Percent,0.5181
+County,Tulare,0-3,2015,Percent,0.304
+County,Tulare,4-5,2015,Percent,0.60566
+County,Tulare,6-8,2015,Percent,0.64047
+County,Tulare,9-11,2015,Percent,0.60564
+County,Tulare,12-14,2015,Percent,0.54813
+County,Tulare,15-18,2015,Percent,0.47613
+County,Tulare,19-20,2015,Percent,0.34413
+County,Tulare,0-20,2015,Percent,0.51299
+County,Tuolumne,0-3,2013,Percent,0.32
+County,Tuolumne,4-5,2013,Percent,0.68
+County,Tuolumne,6-8,2013,Percent,0.62
+County,Tuolumne,9-11,2013,Percent,0.52
+County,Tuolumne,12-14,2013,Percent,0.52
+County,Tuolumne,15-18,2013,Percent,0.51
+County,Tuolumne,19-20,2013,Percent,0.4
+County,Tuolumne,0-20,2013,Percent,0.51
+County,Tuolumne,0-3,2014,Percent,0.22143
+County,Tuolumne,4-5,2014,Percent,0.42391
+County,Tuolumne,6-8,2014,Percent,0.44237
+County,Tuolumne,9-11,2014,Percent,0.44969
+County,Tuolumne,12-14,2014,Percent,0.44409
+County,Tuolumne,15-18,2014,Percent,0.41981
+County,Tuolumne,19-20,2014,Percent,0.26087
+County,Tuolumne,0-20,2014,Percent,0.3918
+County,Tuolumne,0-3,2015,Percent,0.20489
+County,Tuolumne,4-5,2015,Percent,0.47222
+County,Tuolumne,6-8,2015,Percent,0.5142
+County,Tuolumne,9-11,2015,Percent,0.52493
+County,Tuolumne,12-14,2015,Percent,0.43642
+County,Tuolumne,15-18,2015,Percent,0.41704
+County,Tuolumne,19-20,2015,Percent,0.31053
+County,Tuolumne,0-20,2015,Percent,0.41548
+County,Ventura,0-3,2013,Percent,0.27
+County,Ventura,4-5,2013,Percent,0.66
+County,Ventura,6-8,2013,Percent,0.67
+County,Ventura,9-11,2013,Percent,0.62
+County,Ventura,12-14,2013,Percent,0.55
+County,Ventura,15-18,2013,Percent,0.47
+County,Ventura,19-20,2013,Percent,0.33
+County,Ventura,0-20,2013,Percent,0.51
+County,Ventura,0-3,2014,Percent,0.28732
+County,Ventura,4-5,2014,Percent,0.66585
+County,Ventura,6-8,2014,Percent,0.69202
+County,Ventura,9-11,2014,Percent,0.6438
+County,Ventura,12-14,2014,Percent,0.56715
+County,Ventura,15-18,2014,Percent,0.47675
+County,Ventura,19-20,2014,Percent,0.3279
+County,Ventura,0-20,2014,Percent,0.53728
+County,Ventura,0-3,2015,Percent,0.34505
+County,Ventura,4-5,2015,Percent,0.66994
+County,Ventura,6-8,2015,Percent,0.68551
+County,Ventura,9-11,2015,Percent,0.64363
+County,Ventura,12-14,2015,Percent,0.56132
+County,Ventura,15-18,2015,Percent,0.47398
+County,Ventura,19-20,2015,Percent,0.32085
+County,Ventura,0-20,2015,Percent,0.54237
+County,Yolo,0-3,2013,Percent,0.28
+County,Yolo,4-5,2013,Percent,0.63
+County,Yolo,6-8,2013,Percent,0.6
+County,Yolo,9-11,2013,Percent,0.55
+County,Yolo,12-14,2013,Percent,0.5
+County,Yolo,15-18,2013,Percent,0.44
+County,Yolo,19-20,2013,Percent,0.3
+County,Yolo,0-20,2013,Percent,0.48
+County,Yolo,0-3,2014,Percent,0.29173
+County,Yolo,4-5,2014,Percent,0.59666
+County,Yolo,6-8,2014,Percent,0.60633
+County,Yolo,9-11,2014,Percent,0.55739
+County,Yolo,12-14,2014,Percent,0.50287
+County,Yolo,15-18,2014,Percent,0.42818
+County,Yolo,19-20,2014,Percent,0.32127
+County,Yolo,0-20,2014,Percent,0.479
+County,Yolo,0-3,2015,Percent,0.31492
+County,Yolo,4-5,2015,Percent,0.57348
+County,Yolo,6-8,2015,Percent,0.59522
+County,Yolo,9-11,2015,Percent,0.54762
+County,Yolo,12-14,2015,Percent,0.50356
+County,Yolo,15-18,2015,Percent,0.41765
+County,Yolo,19-20,2015,Percent,0.29993
+County,Yolo,0-20,2015,Percent,0.47133
+County,Yuba,0-3,2013,Percent,0.33
+County,Yuba,4-5,2013,Percent,0.63
+County,Yuba,6-8,2013,Percent,0.62
+County,Yuba,9-11,2013,Percent,0.57
+County,Yuba,12-14,2013,Percent,0.49
+County,Yuba,15-18,2013,Percent,0.42
+County,Yuba,19-20,2013,Percent,0.31
+County,Yuba,0-20,2013,Percent,0.49
+County,Yuba,0-3,2014,Percent,0.347
+County,Yuba,4-5,2014,Percent,0.59809
+County,Yuba,6-8,2014,Percent,0.62854
+County,Yuba,9-11,2014,Percent,0.59574
+County,Yuba,12-14,2014,Percent,0.528
+County,Yuba,15-18,2014,Percent,0.44368
+County,Yuba,19-20,2014,Percent,0.30396
+County,Yuba,0-20,2014,Percent,0.50249
+County,Yuba,0-3,2015,Percent,0.34932
+County,Yuba,4-5,2015,Percent,0.65838
+County,Yuba,6-8,2015,Percent,0.68426
+County,Yuba,9-11,2015,Percent,0.61772
+County,Yuba,12-14,2015,Percent,0.51421
+County,Yuba,15-18,2015,Percent,0.46345
+County,Yuba,19-20,2015,Percent,0.24645
+County,Yuba,0-20,2015,Percent,0.51472

@@ -1,0 +1,263 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+State,California,2009,Currency,68615
+State,California,2010,Currency,69105
+State,California,2011,Currency,67664
+State,California,2012,Currency,65750
+State,California,2013,Currency,64281
+State,California,2014,Currency,63605
+County,Alameda,2009,Currency,89567
+County,Alameda,2010,Currency,89836
+County,Alameda,2011,Currency,89341
+County,Alameda,2012,Currency,88717
+County,Alameda,2013,Currency,88636
+County,Alameda,2014,Currency,91206
+County,Alpine,2010,Currency,NA
+County,Alpine,2011,Currency,NA
+County,Alpine,2012,Currency,NA
+County,Alpine,2013,Currency,NA
+County,Alpine,2014,Currency,NA
+County,Amador,2009,Currency,LNE
+County,Amador,2010,Currency,74430
+County,Amador,2011,Currency,LNE
+County,Amador,2012,Currency,LNE
+County,Amador,2013,Currency,LNE
+County,Amador,2014,Currency,LNE
+County,Calaveras,2009,Currency,76558
+County,Calaveras,2010,Currency,79613
+County,Calaveras,2011,Currency,79142
+County,Calaveras,2012,Currency,74445
+County,Calaveras,2013,Currency,76292
+County,Calaveras,2014,Currency,LNE
+County,Colusa,2009,Currency,LNE
+County,Colusa,2010,Currency,47209
+County,Colusa,2011,Currency,48489
+County,Colusa,2012,Currency,45873
+County,Colusa,2013,Currency,49723
+County,Colusa,2014,Currency,47625
+County,Contra Costa,2009,Currency,98319
+County,Contra Costa,2010,Currency,99017
+County,Contra Costa,2011,Currency,97550
+County,Contra Costa,2012,Currency,95632
+County,Contra Costa,2013,Currency,96837
+County,Contra Costa,2014,Currency,96240
+County,Del Norte,2009,Currency,LNE
+County,Del Norte,2010,Currency,LNE
+County,Del Norte,2011,Currency,LNE
+County,Del Norte,2012,Currency,LNE
+County,Del Norte,2013,Currency,LNE
+County,Del Norte,2014,Currency,LNE
+County,El Dorado,2009,Currency,93624
+County,El Dorado,2010,Currency,96222
+County,El Dorado,2011,Currency,92865
+County,El Dorado,2012,Currency,91461
+County,El Dorado,2013,Currency,90608
+County,El Dorado,2014,Currency,87858
+County,Glenn,2009,Currency,48689
+County,Glenn,2010,Currency,52420
+County,Glenn,2011,Currency,53253
+County,Glenn,2012,Currency,51997
+County,Glenn,2013,Currency,52699
+County,Glenn,2014,Currency,LNE
+County,Imperial,2009,Currency,44201
+County,Imperial,2010,Currency,45089
+County,Imperial,2011,Currency,43079
+County,Imperial,2012,Currency,43274
+County,Imperial,2013,Currency,43639
+County,Imperial,2014,Currency,44680
+County,Inyo,2009,Currency,58105
+County,Inyo,2010,Currency,58402
+County,Inyo,2011,Currency,63708
+County,Inyo,2012,Currency,59534
+County,Inyo,2013,Currency,60107
+County,Inyo,2014,Currency,65394
+County,Kern,2009,Currency,47741
+County,Kern,2010,Currency,48108
+County,Kern,2011,Currency,47892
+County,Kern,2012,Currency,46076
+County,Kern,2013,Currency,45268
+County,Kern,2014,Currency,44701
+County,Lassen,2009,Currency,57623
+County,Lassen,2010,Currency,66141
+County,Lassen,2011,Currency,70361
+County,Lassen,2012,Currency,65630
+County,Lassen,2013,Currency,66616
+County,Lassen,2014,Currency,67986
+County,Madera,2009,Currency,49417
+County,Madera,2010,Currency,48593
+County,Madera,2011,Currency,47228
+County,Madera,2012,Currency,45286
+County,Madera,2013,Currency,42620
+County,Madera,2014,Currency,41210
+County,Marin,2009,Currency,124619
+County,Marin,2010,Currency,127363
+County,Marin,2011,Currency,124253
+County,Marin,2012,Currency,122468
+County,Marin,2013,Currency,123130
+County,Marin,2014,Currency,124186
+County,Mariposa,2009,Currency,LNE
+County,Mariposa,2010,Currency,LNE
+County,Mariposa,2011,Currency,LNE
+County,Mariposa,2012,Currency,LNE
+County,Mariposa,2013,Currency,LNE
+County,Mariposa,2014,Currency,LNE
+County,Mendocino,2009,Currency,48728
+County,Mendocino,2010,Currency,48442
+County,Mendocino,2011,Currency,47385
+County,Mendocino,2012,Currency,44760
+County,Mendocino,2013,Currency,45366
+County,Mendocino,2014,Currency,43449
+County,Merced,2009,Currency,45899
+County,Merced,2010,Currency,46135
+County,Merced,2011,Currency,43881
+County,Merced,2012,Currency,42462
+County,Merced,2013,Currency,41032
+County,Merced,2014,Currency,40552
+County,Modoc,2010,Currency,NA
+County,Modoc,2011,Currency,NA
+County,Modoc,2012,Currency,NA
+County,Modoc,2013,Currency,NA
+County,Modoc,2014,Currency,NA
+County,Mono,2009,Currency,LNE
+County,Mono,2010,Currency,LNE
+County,Mono,2011,Currency,LNE
+County,Mono,2012,Currency,LNE
+County,Mono,2013,Currency,LNE
+County,Mono,2014,Currency,LNE
+County,Napa,2009,Currency,79773
+County,Napa,2010,Currency,79692
+County,Napa,2011,Currency,76782
+County,Napa,2012,Currency,75848
+County,Napa,2013,Currency,74570
+County,Napa,2014,Currency,74169
+County,Placer,2009,Currency,101341
+County,Placer,2010,Currency,103861
+County,Placer,2011,Currency,100189
+County,Placer,2012,Currency,96219
+County,Placer,2013,Currency,94564
+County,Placer,2014,Currency,91681
+County,Plumas,2009,Currency,47420
+County,Plumas,2010,Currency,LNE
+County,Plumas,2011,Currency,LNE
+County,Plumas,2012,Currency,LNE
+County,Plumas,2013,Currency,LNE
+County,Plumas,2014,Currency,LNE
+County,Riverside,2009,Currency,67351
+County,Riverside,2010,Currency,66524
+County,Riverside,2011,Currency,64765
+County,Riverside,2012,Currency,61650
+County,Riverside,2013,Currency,59515
+County,Riverside,2014,Currency,58493
+County,San Benito,2009,Currency,78835
+County,San Benito,2010,Currency,79293
+County,San Benito,2011,Currency,71718
+County,San Benito,2012,Currency,65845
+County,San Benito,2013,Currency,68815
+County,San Benito,2014,Currency,68482
+County,San Bernardino,2009,Currency,61424
+County,San Bernardino,2010,Currency,61559
+County,San Bernardino,2011,Currency,59135
+County,San Bernardino,2012,Currency,56484
+County,San Bernardino,2013,Currency,54604
+County,San Bernardino,2014,Currency,52961
+County,San Joaquin,2009,Currency,62253
+County,San Joaquin,2010,Currency,60905
+County,San Joaquin,2011,Currency,57208
+County,San Joaquin,2012,Currency,55381
+County,San Joaquin,2013,Currency,53572
+County,San Joaquin,2014,Currency,51983
+County,San Luis Obispo,2009,Currency,75996
+County,San Luis Obispo,2010,Currency,76659
+County,San Luis Obispo,2011,Currency,77127
+County,San Luis Obispo,2012,Currency,71380
+County,San Luis Obispo,2013,Currency,68351
+County,San Luis Obispo,2014,Currency,67253
+County,San Mateo,2009,Currency,110478
+County,San Mateo,2010,Currency,115447
+County,San Mateo,2011,Currency,115590
+County,San Mateo,2012,Currency,114713
+County,San Mateo,2013,Currency,115764
+County,San Mateo,2014,Currency,115812
+County,Santa Barbara,2009,Currency,68563
+County,Santa Barbara,2010,Currency,66934
+County,Santa Barbara,2011,Currency,66936
+County,Santa Barbara,2012,Currency,65026
+County,Santa Barbara,2013,Currency,63990
+County,Santa Barbara,2014,Currency,63404
+County,Santa Clara,2009,Currency,110719
+County,Santa Clara,2010,Currency,112476
+County,Santa Clara,2011,Currency,113504
+County,Santa Clara,2012,Currency,113029
+County,Santa Clara,2013,Currency,111440
+County,Santa Clara,2014,Currency,113780
+County,Shasta,2009,Currency,54293
+County,Shasta,2010,Currency,54093
+County,Shasta,2011,Currency,51367
+County,Shasta,2012,Currency,50058
+County,Shasta,2013,Currency,49928
+County,Shasta,2014,Currency,48965
+County,Siskiyou,2009,Currency,47108
+County,Siskiyou,2010,Currency,45925
+County,Siskiyou,2011,Currency,43598
+County,Siskiyou,2012,Currency,41327
+County,Siskiyou,2013,Currency,42175
+County,Siskiyou,2014,Currency,36250
+County,Solano,2009,Currency,77373
+County,Solano,2010,Currency,76643
+County,Solano,2011,Currency,75935
+County,Solano,2012,Currency,72672
+County,Solano,2013,Currency,68506
+County,Solano,2014,Currency,67397
+County,Sonoma,2009,Currency,78727
+County,Sonoma,2010,Currency,76823
+County,Sonoma,2011,Currency,75035
+County,Sonoma,2012,Currency,72217
+County,Sonoma,2013,Currency,69828
+County,Sonoma,2014,Currency,68372
+County,Stanislaus,2009,Currency,58079
+County,Stanislaus,2010,Currency,56217
+County,Stanislaus,2011,Currency,53750
+County,Stanislaus,2012,Currency,51849
+County,Stanislaus,2013,Currency,49775
+County,Stanislaus,2014,Currency,48257
+County,Sutter,2009,Currency,56439
+County,Sutter,2010,Currency,57430
+County,Sutter,2011,Currency,53337
+County,Sutter,2012,Currency,53031
+County,Sutter,2013,Currency,52203
+County,Sutter,2014,Currency,54052
+County,Tehama,2009,Currency,41242
+County,Tehama,2010,Currency,44035
+County,Tehama,2011,Currency,43943
+County,Tehama,2012,Currency,44350
+County,Tehama,2013,Currency,45685
+County,Tehama,2014,Currency,45320
+County,Tulare,2009,Currency,43304
+County,Tulare,2010,Currency,43895
+County,Tulare,2011,Currency,41168
+County,Tulare,2012,Currency,40149
+County,Tulare,2013,Currency,38759
+County,Tulare,2014,Currency,37271
+County,Tuolumne,2009,Currency,64387
+County,Tuolumne,2010,Currency,64518
+County,Tuolumne,2011,Currency,58123
+County,Tuolumne,2012,Currency,59110
+County,Tuolumne,2013,Currency,58718
+County,Tuolumne,2014,Currency,54809
+County,Ventura,2009,Currency,86330
+County,Ventura,2010,Currency,86897
+County,Ventura,2011,Currency,86527
+County,Ventura,2012,Currency,85618
+County,Ventura,2013,Currency,83931
+County,Ventura,2014,Currency,83048
+County,Yolo,2009,Currency,71953
+County,Yolo,2010,Currency,73509
+County,Yolo,2011,Currency,73470
+County,Yolo,2012,Currency,73617
+County,Yolo,2013,Currency,71821
+County,Yolo,2014,Currency,71130
+County,Yuba,2009,Currency,50834
+County,Yuba,2010,Currency,52351
+County,Yuba,2011,Currency,48937
+County,Yuba,2012,Currency,50031
+County,Yuba,2013,Currency,47507
+County,Yuba,2014,Currency,46601

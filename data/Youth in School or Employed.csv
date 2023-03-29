@@ -1,0 +1,709 @@
+LocationType,Location,Race,TimeFrame,DataFormat,Data
+State,California,All,2014,Percent,0.917
+State,California,Latino,2014,Percent,0.902
+State,California,Asian,2014,Percent,0.959
+State,California,African American,2014,Percent,0.882
+State,California,White,2014,Percent,0.934
+State,California,Other,2014,Percent,0.929
+State,California,All,2010,Percent,0.917
+State,California,Latino,2010,Percent,0.894
+State,California,Asian,2010,Percent,0.958
+State,California,African American,2010,Percent,0.886
+State,California,White,2010,Percent,0.941
+State,California,Other,2010,Percent,0.934
+County,Alameda,All,2014,Percent,0.933
+County,Alameda,Latino,2014,Percent,0.91
+County,Alameda,Asian,2014,Percent,0.964
+County,Alameda,African American,2014,Percent,0.89
+County,Alameda,White,2014,Percent,0.946
+County,Alameda,Other,2014,Percent,0.955
+County,Alameda,All,2010,Percent,0.933
+County,Alameda,Latino,2010,Percent,0.89
+County,Alameda,Asian,2010,Percent,0.965
+County,Alameda,African American,2010,Percent,0.89
+County,Alameda,White,2010,Percent,0.972
+County,Alameda,Other,2010,Percent,0.923
+County,Alpine,All,2014,Percent,0.924
+County,Alpine,Latino,2014,Percent,0.93
+County,Alpine,Asian,2014,Percent,NA
+County,Alpine,African American,2014,Percent,NA
+County,Alpine,White,2014,Percent,0.932
+County,Alpine,Other,2014,Percent,87%*
+County,Alpine,All,2010,Percent,0.908
+County,Alpine,Latino,2010,Percent,81%*
+County,Alpine,Asian,2010,Percent,NA
+County,Alpine,African American,2010,Percent,NA
+County,Alpine,White,2010,Percent,0.938
+County,Alpine,Other,2010,Percent,0.974
+County,Amador,All,2014,Percent,0.924
+County,Amador,Latino,2014,Percent,0.93
+County,Amador,Asian,2014,Percent,NA
+County,Amador,African American,2014,Percent,NA
+County,Amador,White,2014,Percent,0.932
+County,Amador,Other,2014,Percent,87%*
+County,Amador,All,2010,Percent,0.908
+County,Amador,Latino,2010,Percent,81%*
+County,Amador,Asian,2010,Percent,NA
+County,Amador,African American,2010,Percent,NA
+County,Amador,White,2010,Percent,0.938
+County,Amador,Other,2010,Percent,0.974
+County,Butte,All,2014,Percent,0.928
+County,Butte,Latino,2014,Percent,0.95
+County,Butte,Asian,2014,Percent,0.971
+County,Butte,African American,2014,Percent,1
+County,Butte,White,2014,Percent,0.918
+County,Butte,Other,2014,Percent,NA
+County,Butte,All,2010,Percent,0.932
+County,Butte,Latino,2010,Percent,0.928
+County,Butte,Asian,2010,Percent,0.983
+County,Butte,African American,2010,Percent,1
+County,Butte,White,2010,Percent,0.935
+County,Butte,Other,2010,Percent,NA
+County,Calaveras,All,2014,Percent,0.924
+County,Calaveras,Latino,2014,Percent,0.93
+County,Calaveras,Asian,2014,Percent,NA
+County,Calaveras,African American,2014,Percent,NA
+County,Calaveras,White,2014,Percent,0.932
+County,Calaveras,Other,2014,Percent,87%*
+County,Calaveras,All,2010,Percent,0.908
+County,Calaveras,Latino,2010,Percent,81%*
+County,Calaveras,Asian,2010,Percent,NA
+County,Calaveras,African American,2010,Percent,NA
+County,Calaveras,White,2010,Percent,0.938
+County,Calaveras,Other,2010,Percent,0.974
+County,Colusa,All,2014,Percent,0.877
+County,Colusa,Latino,2014,Percent,89%*
+County,Colusa,Asian,2014,Percent,NA
+County,Colusa,African American,2014,Percent,1
+County,Colusa,White,2014,Percent,86%*
+County,Colusa,Other,2014,Percent,NA
+County,Colusa,All,2010,Percent,0.892
+County,Colusa,Latino,2010,Percent,0.945
+County,Colusa,Asian,2010,Percent,1
+County,Colusa,African American,2010,Percent,NA
+County,Colusa,White,2010,Percent,0.86
+County,Colusa,Other,2010,Percent,NA
+County,Contra Costa,All,2014,Percent,0.933
+County,Contra Costa,Latino,2014,Percent,0.931
+County,Contra Costa,Asian,2014,Percent,0.951
+County,Contra Costa,African American,2014,Percent,0.896
+County,Contra Costa,White,2014,Percent,0.938
+County,Contra Costa,Other,2014,Percent,0.944
+County,Contra Costa,All,2010,Percent,0.936
+County,Contra Costa,Latino,2010,Percent,0.9
+County,Contra Costa,Asian,2010,Percent,0.974
+County,Contra Costa,African American,2010,Percent,0.865
+County,Contra Costa,White,2010,Percent,0.97
+County,Contra Costa,Other,2010,Percent,0.948
+County,Del Norte,All,2014,Percent,0.886
+County,Del Norte,Latino,2014,Percent,0.889
+County,Del Norte,Asian,2014,Percent,NA
+County,Del Norte,African American,2014,Percent,1
+County,Del Norte,White,2014,Percent,0.875
+County,Del Norte,Other,2014,Percent,94%*
+County,Del Norte,All,2010,Percent,0.898
+County,Del Norte,Latino,2010,Percent,0.913
+County,Del Norte,Asian,2010,Percent,94%*
+County,Del Norte,African American,2010,Percent,NA
+County,Del Norte,White,2010,Percent,0.903
+County,Del Norte,Other,2010,Percent,NA
+County,El Dorado,All,2014,Percent,0.937
+County,El Dorado,Latino,2014,Percent,93%*
+County,El Dorado,Asian,2014,Percent,1
+County,El Dorado,African American,2014,Percent,NA
+County,El Dorado,White,2014,Percent,0.929
+County,El Dorado,Other,2014,Percent,1
+County,El Dorado,All,2010,Percent,0.964
+County,El Dorado,Latino,2010,Percent,0.964
+County,El Dorado,Asian,2010,Percent,1
+County,El Dorado,African American,2010,Percent,NA
+County,El Dorado,White,2010,Percent,0.963
+County,El Dorado,Other,2010,Percent,1
+County,Fresno,All,2014,Percent,0.903
+County,Fresno,Latino,2014,Percent,0.896
+County,Fresno,Asian,2014,Percent,0.902
+County,Fresno,African American,2014,Percent,0.893
+County,Fresno,White,2014,Percent,0.928
+County,Fresno,Other,2014,Percent,90%*
+County,Fresno,All,2010,Percent,0.902
+County,Fresno,Latino,2010,Percent,0.877
+County,Fresno,Asian,2010,Percent,0.928
+County,Fresno,African American,2010,Percent,0.92
+County,Fresno,White,2010,Percent,0.934
+County,Fresno,Other,2010,Percent,0.954
+County,Glenn,All,2014,Percent,0.877
+County,Glenn,Latino,2014,Percent,89%*
+County,Glenn,Asian,2014,Percent,NA
+County,Glenn,African American,2014,Percent,1
+County,Glenn,White,2014,Percent,86%*
+County,Glenn,Other,2014,Percent,NA
+County,Glenn,All,2010,Percent,0.892
+County,Glenn,Latino,2010,Percent,0.945
+County,Glenn,Asian,2010,Percent,1
+County,Glenn,African American,2010,Percent,NA
+County,Glenn,White,2010,Percent,0.86
+County,Glenn,Other,2010,Percent,NA
+County,Humboldt,All,2014,Percent,0.922
+County,Humboldt,Latino,2014,Percent,95%*
+County,Humboldt,Asian,2014,Percent,1
+County,Humboldt,African American,2014,Percent,1
+County,Humboldt,White,2014,Percent,0.911
+County,Humboldt,Other,2014,Percent,91%*
+County,Humboldt,All,2010,Percent,0.947
+County,Humboldt,Latino,2010,Percent,0.972
+County,Humboldt,Asian,2010,Percent,1
+County,Humboldt,African American,2010,Percent,1
+County,Humboldt,White,2010,Percent,0.958
+County,Humboldt,Other,2010,Percent,NA
+County,Imperial,All,2014,Percent,0.908
+County,Imperial,Latino,2014,Percent,0.91
+County,Imperial,Asian,2014,Percent,1
+County,Imperial,African American,2014,Percent,NA
+County,Imperial,White,2014,Percent,0.988
+County,Imperial,Other,2014,Percent,NA
+County,Imperial,All,2010,Percent,0.907
+County,Imperial,Latino,2010,Percent,0.912
+County,Imperial,Asian,2010,Percent,1
+County,Imperial,African American,2010,Percent,NA
+County,Imperial,White,2010,Percent,91%*
+County,Imperial,Other,2010,Percent,91%*
+County,Inyo,All,2014,Percent,0.924
+County,Inyo,Latino,2014,Percent,0.93
+County,Inyo,Asian,2014,Percent,NA
+County,Inyo,African American,2014,Percent,NA
+County,Inyo,White,2014,Percent,0.932
+County,Inyo,Other,2014,Percent,87%*
+County,Inyo,All,2010,Percent,0.908
+County,Inyo,Latino,2010,Percent,81%*
+County,Inyo,Asian,2010,Percent,NA
+County,Inyo,African American,2010,Percent,NA
+County,Inyo,White,2010,Percent,0.938
+County,Inyo,Other,2010,Percent,0.974
+County,Kern,All,2014,Percent,0.872
+County,Kern,Latino,2014,Percent,0.872
+County,Kern,Asian,2014,Percent,0.898
+County,Kern,African American,2014,Percent,78%*
+County,Kern,White,2014,Percent,0.892
+County,Kern,Other,2014,Percent,NA
+County,Kern,All,2010,Percent,0.882
+County,Kern,Latino,2010,Percent,0.869
+County,Kern,Asian,2010,Percent,0.936
+County,Kern,African American,2010,Percent,0.86
+County,Kern,White,2010,Percent,0.899
+County,Kern,Other,2010,Percent,92%*
+County,Kings,All,2014,Percent,0.878
+County,Kings,Latino,2014,Percent,0.865
+County,Kings,Asian,2014,Percent,NA
+County,Kings,African American,2014,Percent,1
+County,Kings,White,2014,Percent,0.924
+County,Kings,Other,2014,Percent,NA
+County,Kings,All,2010,Percent,0.883
+County,Kings,Latino,2010,Percent,0.844
+County,Kings,Asian,2010,Percent,1
+County,Kings,African American,2010,Percent,NA
+County,Kings,White,2010,Percent,0.95
+County,Kings,Other,2010,Percent,NA
+County,Lake,All,2014,Percent,0.839
+County,Lake,Latino,2014,Percent,87%*
+County,Lake,Asian,2014,Percent,95%*
+County,Lake,African American,2014,Percent,NA
+County,Lake,White,2014,Percent,0.844
+County,Lake,Other,2014,Percent,NA
+County,Lake,All,2010,Percent,0.875
+County,Lake,Latino,2010,Percent,86%*
+County,Lake,Asian,2010,Percent,1
+County,Lake,African American,2010,Percent,NA
+County,Lake,White,2010,Percent,0.873
+County,Lake,Other,2010,Percent,NA
+County,Lassen,All,2014,Percent,0.886
+County,Lassen,Latino,2014,Percent,0.889
+County,Lassen,Asian,2014,Percent,NA
+County,Lassen,African American,2014,Percent,1
+County,Lassen,White,2014,Percent,0.875
+County,Lassen,Other,2014,Percent,94%*
+County,Lassen,All,2010,Percent,0.898
+County,Lassen,Latino,2010,Percent,0.913
+County,Lassen,Asian,2010,Percent,94%*
+County,Lassen,African American,2010,Percent,NA
+County,Lassen,White,2010,Percent,0.903
+County,Lassen,Other,2010,Percent,NA
+County,Los Angeles,All,2014,Percent,0.915
+County,Los Angeles,Latino,2014,Percent,0.901
+County,Los Angeles,Asian,2014,Percent,0.96
+County,Los Angeles,African American,2014,Percent,0.88
+County,Los Angeles,White,2014,Percent,0.942
+County,Los Angeles,Other,2014,Percent,0.948
+County,Los Angeles,All,2010,Percent,0.913
+County,Los Angeles,Latino,2010,Percent,0.894
+County,Los Angeles,Asian,2010,Percent,0.96
+County,Los Angeles,African American,2010,Percent,0.876
+County,Los Angeles,White,2010,Percent,0.951
+County,Los Angeles,Other,2010,Percent,0.952
+County,Madera,All,2014,Percent,0.849
+County,Madera,Latino,2014,Percent,0.811
+County,Madera,Asian,2014,Percent,1
+County,Madera,African American,2014,Percent,97%*
+County,Madera,White,2014,Percent,0.96
+County,Madera,Other,2014,Percent,NA
+County,Madera,All,2010,Percent,0.823
+County,Madera,Latino,2010,Percent,79%*
+County,Madera,Asian,2010,Percent,NA
+County,Madera,African American,2010,Percent,NA
+County,Madera,White,2010,Percent,90%*
+County,Madera,Other,2010,Percent,NA
+County,Marin,All,2014,Percent,0.941
+County,Marin,Latino,2014,Percent,87%*
+County,Marin,Asian,2014,Percent,1
+County,Marin,African American,2014,Percent,NA
+County,Marin,White,2014,Percent,0.966
+County,Marin,Other,2014,Percent,95%*
+County,Marin,All,2010,Percent,0.953
+County,Marin,Latino,2010,Percent,91%*
+County,Marin,Asian,2010,Percent,1
+County,Marin,African American,2010,Percent,NA
+County,Marin,White,2010,Percent,0.97
+County,Marin,Other,2010,Percent,94%*
+County,Mariposa,All,2014,Percent,0.924
+County,Mariposa,Latino,2014,Percent,0.93
+County,Mariposa,Asian,2014,Percent,NA
+County,Mariposa,African American,2014,Percent,NA
+County,Mariposa,White,2014,Percent,0.932
+County,Mariposa,Other,2014,Percent,87%*
+County,Mariposa,All,2010,Percent,0.908
+County,Mariposa,Latino,2010,Percent,81%*
+County,Mariposa,Asian,2010,Percent,NA
+County,Mariposa,African American,2010,Percent,NA
+County,Mariposa,White,2010,Percent,0.938
+County,Mariposa,Other,2010,Percent,0.974
+County,Mendocino,All,2014,Percent,0.839
+County,Mendocino,Latino,2014,Percent,87%*
+County,Mendocino,Asian,2014,Percent,95%*
+County,Mendocino,African American,2014,Percent,NA
+County,Mendocino,White,2014,Percent,0.844
+County,Mendocino,Other,2014,Percent,NA
+County,Mendocino,All,2010,Percent,0.875
+County,Mendocino,Latino,2010,Percent,86%*
+County,Mendocino,Asian,2010,Percent,1
+County,Mendocino,African American,2010,Percent,NA
+County,Mendocino,White,2010,Percent,0.873
+County,Mendocino,Other,2010,Percent,NA
+County,Merced,All,2014,Percent,0.892
+County,Merced,Latino,2014,Percent,0.886
+County,Merced,Asian,2014,Percent,0.938
+County,Merced,African American,2014,Percent,NA
+County,Merced,White,2014,Percent,0.888
+County,Merced,Other,2014,Percent,94%*
+County,Merced,All,2010,Percent,0.875
+County,Merced,Latino,2010,Percent,0.85
+County,Merced,Asian,2010,Percent,0.935
+County,Merced,African American,2010,Percent,NA
+County,Merced,White,2010,Percent,0.904
+County,Merced,Other,2010,Percent,1
+County,Modoc,All,2014,Percent,0.886
+County,Modoc,Latino,2014,Percent,0.889
+County,Modoc,Asian,2014,Percent,NA
+County,Modoc,African American,2014,Percent,1
+County,Modoc,White,2014,Percent,0.875
+County,Modoc,Other,2014,Percent,94%*
+County,Modoc,All,2010,Percent,0.898
+County,Modoc,Latino,2010,Percent,0.913
+County,Modoc,Asian,2010,Percent,94%*
+County,Modoc,African American,2010,Percent,NA
+County,Modoc,White,2010,Percent,0.903
+County,Modoc,Other,2010,Percent,NA
+County,Mono,All,2014,Percent,0.924
+County,Mono,Latino,2014,Percent,0.93
+County,Mono,Asian,2014,Percent,NA
+County,Mono,African American,2014,Percent,NA
+County,Mono,White,2014,Percent,0.932
+County,Mono,Other,2014,Percent,87%*
+County,Mono,All,2010,Percent,0.908
+County,Mono,Latino,2010,Percent,81%*
+County,Mono,Asian,2010,Percent,NA
+County,Mono,African American,2010,Percent,NA
+County,Mono,White,2010,Percent,0.938
+County,Mono,Other,2010,Percent,0.974
+County,Monterey,All,2014,Percent,0.899
+County,Monterey,Latino,2014,Percent,0.867
+County,Monterey,Asian,2014,Percent,0.973
+County,Monterey,African American,2014,Percent,NA
+County,Monterey,White,2014,Percent,0.966
+County,Monterey,Other,2014,Percent,96%*
+County,Monterey,All,2010,Percent,0.901
+County,Monterey,Latino,2010,Percent,0.883
+County,Monterey,Asian,2010,Percent,92%*
+County,Monterey,African American,2010,Percent,92%*
+County,Monterey,White,2010,Percent,0.94
+County,Monterey,Other,2010,Percent,91%*
+County,Napa,All,2014,Percent,0.952
+County,Napa,Latino,2014,Percent,0.946
+County,Napa,Asian,2014,Percent,94%*
+County,Napa,African American,2014,Percent,NA
+County,Napa,White,2014,Percent,0.974
+County,Napa,Other,2014,Percent,1
+County,Napa,All,2010,Percent,0.914
+County,Napa,Latino,2010,Percent,89%*
+County,Napa,Asian,2010,Percent,0.963
+County,Napa,African American,2010,Percent,NA
+County,Napa,White,2010,Percent,93%*
+County,Napa,Other,2010,Percent,1
+County,Nevada,All,2014,Percent,0.886
+County,Nevada,Latino,2014,Percent,0.889
+County,Nevada,Asian,2014,Percent,NA
+County,Nevada,African American,2014,Percent,1
+County,Nevada,White,2014,Percent,0.875
+County,Nevada,Other,2014,Percent,94%*
+County,Nevada,All,2010,Percent,0.898
+County,Nevada,Latino,2010,Percent,0.913
+County,Nevada,Asian,2010,Percent,94%*
+County,Nevada,African American,2010,Percent,NA
+County,Nevada,White,2010,Percent,0.903
+County,Nevada,Other,2010,Percent,NA
+County,Orange,All,2014,Percent,0.933
+County,Orange,Latino,2014,Percent,0.906
+County,Orange,Asian,2014,Percent,0.973
+County,Orange,African American,2014,Percent,0.939
+County,Orange,White,2014,Percent,0.945
+County,Orange,Other,2014,Percent,0.976
+County,Orange,All,2010,Percent,0.943
+County,Orange,Latino,2010,Percent,0.921
+County,Orange,Asian,2010,Percent,0.969
+County,Orange,African American,2010,Percent,0.969
+County,Orange,White,2010,Percent,0.951
+County,Orange,Other,2010,Percent,0.971
+County,Placer,All,2014,Percent,0.929
+County,Placer,Latino,2014,Percent,0.901
+County,Placer,Asian,2014,Percent,1
+County,Placer,African American,2014,Percent,0.983
+County,Placer,White,2014,Percent,0.929
+County,Placer,Other,2014,Percent,94%*
+County,Placer,All,2010,Percent,0.935
+County,Placer,Latino,2010,Percent,93%*
+County,Placer,Asian,2010,Percent,0.967
+County,Placer,African American,2010,Percent,NA
+County,Placer,White,2010,Percent,0.935
+County,Placer,Other,2010,Percent,95%*
+County,Plumas,All,2014,Percent,0.886
+County,Plumas,Latino,2014,Percent,0.889
+County,Plumas,Asian,2014,Percent,NA
+County,Plumas,African American,2014,Percent,1
+County,Plumas,White,2014,Percent,0.875
+County,Plumas,Other,2014,Percent,94%*
+County,Plumas,All,2010,Percent,0.898
+County,Plumas,Latino,2010,Percent,0.913
+County,Plumas,Asian,2010,Percent,94%*
+County,Plumas,African American,2010,Percent,NA
+County,Plumas,White,2010,Percent,0.903
+County,Plumas,Other,2010,Percent,NA
+County,Riverside,All,2014,Percent,0.902
+County,Riverside,Latino,2014,Percent,0.899
+County,Riverside,Asian,2014,Percent,0.95
+County,Riverside,African American,2014,Percent,0.868
+County,Riverside,White,2014,Percent,0.903
+County,Riverside,Other,2014,Percent,0.936
+County,Riverside,All,2010,Percent,0.902
+County,Riverside,Latino,2010,Percent,0.887
+County,Riverside,Asian,2010,Percent,0.965
+County,Riverside,African American,2010,Percent,0.868
+County,Riverside,White,2010,Percent,0.926
+County,Riverside,Other,2010,Percent,0.917
+County,Sacramento,All,2014,Percent,0.905
+County,Sacramento,Latino,2014,Percent,0.885
+County,Sacramento,Asian,2014,Percent,0.937
+County,Sacramento,African American,2014,Percent,0.893
+County,Sacramento,White,2014,Percent,0.912
+County,Sacramento,Other,2014,Percent,0.9
+County,Sacramento,All,2010,Percent,0.913
+County,Sacramento,Latino,2010,Percent,0.882
+County,Sacramento,Asian,2010,Percent,0.939
+County,Sacramento,African American,2010,Percent,0.888
+County,Sacramento,White,2010,Percent,0.931
+County,Sacramento,Other,2010,Percent,0.907
+County,San Benito,All,2014,Percent,0.899
+County,San Benito,Latino,2014,Percent,0.867
+County,San Benito,Asian,2014,Percent,0.973
+County,San Benito,African American,2014,Percent,NA
+County,San Benito,White,2014,Percent,0.966
+County,San Benito,Other,2014,Percent,96%*
+County,San Benito,All,2010,Percent,0.901
+County,San Benito,Latino,2010,Percent,0.883
+County,San Benito,Asian,2010,Percent,92%*
+County,San Benito,African American,2010,Percent,92%*
+County,San Benito,White,2010,Percent,0.94
+County,San Benito,Other,2010,Percent,91%*
+County,San Bernardino,All,2014,Percent,0.891
+County,San Bernardino,Latino,2014,Percent,0.883
+County,San Bernardino,Asian,2014,Percent,0.966
+County,San Bernardino,African American,2014,Percent,0.885
+County,San Bernardino,White,2014,Percent,0.901
+County,San Bernardino,Other,2014,Percent,0.885
+County,San Bernardino,All,2010,Percent,0.891
+County,San Bernardino,Latino,2010,Percent,0.886
+County,San Bernardino,Asian,2010,Percent,0.927
+County,San Bernardino,African American,2010,Percent,0.87
+County,San Bernardino,White,2010,Percent,0.902
+County,San Bernardino,Other,2010,Percent,0.898
+County,San Diego,All,2014,Percent,0.929
+County,San Diego,Latino,2014,Percent,0.92
+County,San Diego,Asian,2014,Percent,0.954
+County,San Diego,African American,2014,Percent,0.906
+County,San Diego,White,2014,Percent,0.944
+County,San Diego,Other,2014,Percent,0.877
+County,San Diego,All,2010,Percent,0.931
+County,San Diego,Latino,2010,Percent,0.907
+County,San Diego,Asian,2010,Percent,0.972
+County,San Diego,African American,2010,Percent,0.93
+County,San Diego,White,2010,Percent,0.946
+County,San Diego,Other,2010,Percent,0.922
+County,San Francisco,All,2014,Percent,0.943
+County,San Francisco,Latino,2014,Percent,0.928
+County,San Francisco,Asian,2014,Percent,0.962
+County,San Francisco,African American,2014,Percent,87%*
+County,San Francisco,White,2014,Percent,0.956
+County,San Francisco,Other,2014,Percent,0.96
+County,San Francisco,All,2010,Percent,0.953
+County,San Francisco,Latino,2010,Percent,0.946
+County,San Francisco,Asian,2010,Percent,0.972
+County,San Francisco,African American,2010,Percent,0.92
+County,San Francisco,White,2010,Percent,0.937
+County,San Francisco,Other,2010,Percent,0.973
+County,San Joaquin,All,2014,Percent,0.888
+County,San Joaquin,Latino,2014,Percent,0.868
+County,San Joaquin,Asian,2014,Percent,0.925
+County,San Joaquin,African American,2014,Percent,84%*
+County,San Joaquin,White,2014,Percent,0.906
+County,San Joaquin,Other,2014,Percent,0.946
+County,San Joaquin,All,2010,Percent,0.895
+County,San Joaquin,Latino,2010,Percent,0.865
+County,San Joaquin,Asian,2010,Percent,0.916
+County,San Joaquin,African American,2010,Percent,90%*
+County,San Joaquin,White,2010,Percent,0.915
+County,San Joaquin,Other,2010,Percent,0.954
+County,San Luis Obispo,All,2014,Percent,0.958
+County,San Luis Obispo,Latino,2014,Percent,0.927
+County,San Luis Obispo,Asian,2014,Percent,1
+County,San Luis Obispo,African American,2014,Percent,1
+County,San Luis Obispo,White,2014,Percent,0.966
+County,San Luis Obispo,Other,2014,Percent,1
+County,San Luis Obispo,All,2010,Percent,0.968
+County,San Luis Obispo,Latino,2010,Percent,0.963
+County,San Luis Obispo,Asian,2010,Percent,0.971
+County,San Luis Obispo,African American,2010,Percent,NA
+County,San Luis Obispo,White,2010,Percent,0.968
+County,San Luis Obispo,Other,2010,Percent,1
+County,San Mateo,All,2014,Percent,0.964
+County,San Mateo,Latino,2014,Percent,0.945
+County,San Mateo,Asian,2014,Percent,0.983
+County,San Mateo,African American,2014,Percent,0.989
+County,San Mateo,White,2014,Percent,0.967
+County,San Mateo,Other,2014,Percent,0.986
+County,San Mateo,All,2010,Percent,0.938
+County,San Mateo,Latino,2010,Percent,0.89
+County,San Mateo,Asian,2010,Percent,0.951
+County,San Mateo,African American,2010,Percent,90%*
+County,San Mateo,White,2010,Percent,0.974
+County,San Mateo,Other,2010,Percent,0.982
+County,Santa Barbara,All,2014,Percent,0.947
+County,Santa Barbara,Latino,2014,Percent,0.935
+County,Santa Barbara,Asian,2014,Percent,1
+County,Santa Barbara,African American,2014,Percent,NA
+County,Santa Barbara,White,2014,Percent,0.956
+County,Santa Barbara,Other,2014,Percent,0.978
+County,Santa Barbara,All,2010,Percent,0.944
+County,Santa Barbara,Latino,2010,Percent,0.907
+County,Santa Barbara,Asian,2010,Percent,1
+County,Santa Barbara,African American,2010,Percent,1
+County,Santa Barbara,White,2010,Percent,0.973
+County,Santa Barbara,Other,2010,Percent,0.962
+County,Santa Clara,All,2014,Percent,0.957
+County,Santa Clara,Latino,2014,Percent,0.932
+County,Santa Clara,Asian,2014,Percent,0.975
+County,Santa Clara,African American,2014,Percent,0.929
+County,Santa Clara,White,2014,Percent,0.97
+County,Santa Clara,Other,2014,Percent,0.975
+County,Santa Clara,All,2010,Percent,0.938
+County,Santa Clara,Latino,2010,Percent,0.906
+County,Santa Clara,Asian,2010,Percent,0.963
+County,Santa Clara,African American,2010,Percent,0.926
+County,Santa Clara,White,2010,Percent,0.955
+County,Santa Clara,Other,2010,Percent,0.936
+County,Santa Cruz,All,2014,Percent,0.954
+County,Santa Cruz,Latino,2014,Percent,0.939
+County,Santa Cruz,Asian,2014,Percent,1
+County,Santa Cruz,African American,2014,Percent,1
+County,Santa Cruz,White,2014,Percent,0.959
+County,Santa Cruz,Other,2014,Percent,94%*
+County,Santa Cruz,All,2010,Percent,0.942
+County,Santa Cruz,Latino,2010,Percent,0.897
+County,Santa Cruz,Asian,2010,Percent,0.98
+County,Santa Cruz,African American,2010,Percent,1
+County,Santa Cruz,White,2010,Percent,0.964
+County,Santa Cruz,Other,2010,Percent,0.98
+County,Shasta,All,2014,Percent,0.892
+County,Shasta,Latino,2014,Percent,88%*
+County,Shasta,Asian,2014,Percent,1
+County,Shasta,African American,2014,Percent,NA
+County,Shasta,White,2014,Percent,0.907
+County,Shasta,Other,2014,Percent,NA
+County,Shasta,All,2010,Percent,0.913
+County,Shasta,Latino,2010,Percent,0.938
+County,Shasta,Asian,2010,Percent,NA
+County,Shasta,African American,2010,Percent,NA
+County,Shasta,White,2010,Percent,0.916
+County,Shasta,Other,2010,Percent,90%*
+County,Sierra,All,2014,Percent,0.886
+County,Sierra,Latino,2014,Percent,0.889
+County,Sierra,Asian,2014,Percent,NA
+County,Sierra,African American,2014,Percent,1
+County,Sierra,White,2014,Percent,0.875
+County,Sierra,Other,2014,Percent,94%*
+County,Sierra,All,2010,Percent,0.898
+County,Sierra,Latino,2010,Percent,0.913
+County,Sierra,Asian,2010,Percent,94%*
+County,Sierra,African American,2010,Percent,NA
+County,Sierra,White,2010,Percent,0.903
+County,Sierra,Other,2010,Percent,NA
+County,Siskiyou,All,2014,Percent,0.886
+County,Siskiyou,Latino,2014,Percent,0.889
+County,Siskiyou,Asian,2014,Percent,NA
+County,Siskiyou,African American,2014,Percent,1
+County,Siskiyou,White,2014,Percent,0.875
+County,Siskiyou,Other,2014,Percent,94%*
+County,Siskiyou,All,2010,Percent,0.898
+County,Siskiyou,Latino,2010,Percent,0.913
+County,Siskiyou,Asian,2010,Percent,94%*
+County,Siskiyou,African American,2010,Percent,NA
+County,Siskiyou,White,2010,Percent,0.903
+County,Siskiyou,Other,2010,Percent,NA
+County,Solano,All,2014,Percent,0.899
+County,Solano,Latino,2014,Percent,0.899
+County,Solano,Asian,2014,Percent,91%*
+County,Solano,African American,2014,Percent,82%*
+County,Solano,White,2014,Percent,0.935
+County,Solano,Other,2014,Percent,91%*
+County,Solano,All,2010,Percent,0.91
+County,Solano,Latino,2010,Percent,0.897
+County,Solano,Asian,2010,Percent,0.924
+County,Solano,African American,2010,Percent,0.878
+County,Solano,White,2010,Percent,0.928
+County,Solano,Other,2010,Percent,94%*
+County,Sonoma,All,2014,Percent,0.93
+County,Sonoma,Latino,2014,Percent,0.891
+County,Sonoma,Asian,2014,Percent,NA
+County,Sonoma,African American,2014,Percent,NA
+County,Sonoma,White,2014,Percent,0.959
+County,Sonoma,Other,2014,Percent,94%*
+County,Sonoma,All,2010,Percent,0.934
+County,Sonoma,Latino,2010,Percent,0.895
+County,Sonoma,Asian,2010,Percent,0.976
+County,Sonoma,African American,2010,Percent,1
+County,Sonoma,White,2010,Percent,0.945
+County,Sonoma,Other,2010,Percent,0.971
+County,Stanislaus,All,2014,Percent,0.904
+County,Stanislaus,Latino,2014,Percent,0.909
+County,Stanislaus,Asian,2014,Percent,1
+County,Stanislaus,African American,2014,Percent,85%*
+County,Stanislaus,White,2014,Percent,0.884
+County,Stanislaus,Other,2014,Percent,92%*
+County,Stanislaus,All,2010,Percent,0.9
+County,Stanislaus,Latino,2010,Percent,0.886
+County,Stanislaus,Asian,2010,Percent,0.956
+County,Stanislaus,African American,2010,Percent,86%*
+County,Stanislaus,White,2010,Percent,0.907
+County,Stanislaus,Other,2010,Percent,0.96
+County,Sutter,All,2014,Percent,0.89
+County,Sutter,Latino,2014,Percent,88%*
+County,Sutter,Asian,2014,Percent,94%*
+County,Sutter,African American,2014,Percent,1
+County,Sutter,White,2014,Percent,88%*
+County,Sutter,Other,2014,Percent,NA
+County,Sutter,All,2010,Percent,0.856
+County,Sutter,Latino,2010,Percent,0.851
+County,Sutter,Asian,2010,Percent,NA
+County,Sutter,African American,2010,Percent,1
+County,Sutter,White,2010,Percent,0.871
+County,Sutter,Other,2010,Percent,87%*
+County,Tehama,All,2014,Percent,0.877
+County,Tehama,Latino,2014,Percent,89%*
+County,Tehama,Asian,2014,Percent,NA
+County,Tehama,African American,2014,Percent,1
+County,Tehama,White,2014,Percent,86%*
+County,Tehama,Other,2014,Percent,NA
+County,Tehama,All,2010,Percent,0.892
+County,Tehama,Latino,2010,Percent,0.945
+County,Tehama,Asian,2010,Percent,1
+County,Tehama,African American,2010,Percent,NA
+County,Tehama,White,2010,Percent,0.86
+County,Tehama,Other,2010,Percent,NA
+County,Trinity,All,2014,Percent,0.877
+County,Trinity,Latino,2014,Percent,89%*
+County,Trinity,Asian,2014,Percent,NA
+County,Trinity,African American,2014,Percent,1
+County,Trinity,White,2014,Percent,86%*
+County,Trinity,Other,2014,Percent,NA
+County,Trinity,All,2010,Percent,0.892
+County,Trinity,Latino,2010,Percent,0.945
+County,Trinity,Asian,2010,Percent,1
+County,Trinity,African American,2010,Percent,NA
+County,Trinity,White,2010,Percent,0.86
+County,Trinity,Other,2010,Percent,NA
+County,Tulare,All,2014,Percent,0.875
+County,Tulare,Latino,2014,Percent,0.862
+County,Tulare,Asian,2014,Percent,0.982
+County,Tulare,African American,2014,Percent,NA
+County,Tulare,White,2014,Percent,0.902
+County,Tulare,Other,2014,Percent,NA
+County,Tulare,All,2010,Percent,0.878
+County,Tulare,Latino,2010,Percent,0.866
+County,Tulare,Asian,2010,Percent,0.945
+County,Tulare,African American,2010,Percent,95%*
+County,Tulare,White,2010,Percent,0.907
+County,Tulare,Other,2010,Percent,NA
+County,Tuolumne,All,2014,Percent,0.924
+County,Tuolumne,Latino,2014,Percent,0.93
+County,Tuolumne,Asian,2014,Percent,NA
+County,Tuolumne,African American,2014,Percent,NA
+County,Tuolumne,White,2014,Percent,0.932
+County,Tuolumne,Other,2014,Percent,87%*
+County,Tuolumne,All,2010,Percent,0.908
+County,Tuolumne,Latino,2010,Percent,81%*
+County,Tuolumne,Asian,2010,Percent,NA
+County,Tuolumne,African American,2010,Percent,NA
+County,Tuolumne,White,2010,Percent,0.938
+County,Tuolumne,Other,2010,Percent,0.974
+County,Ventura,All,2014,Percent,0.951
+County,Ventura,Latino,2014,Percent,0.938
+County,Ventura,Asian,2014,Percent,0.953
+County,Ventura,African American,2014,Percent,0.997
+County,Ventura,White,2014,Percent,0.965
+County,Ventura,Other,2014,Percent,0.971
+County,Ventura,All,2010,Percent,0.936
+County,Ventura,Latino,2010,Percent,0.923
+County,Ventura,Asian,2010,Percent,91%*
+County,Ventura,African American,2010,Percent,NA
+County,Ventura,White,2010,Percent,0.954
+County,Ventura,Other,2010,Percent,0.964
+County,Yolo,All,2014,Percent,0.963
+County,Yolo,Latino,2014,Percent,0.946
+County,Yolo,Asian,2014,Percent,0.964
+County,Yolo,African American,2014,Percent,94%*
+County,Yolo,White,2014,Percent,0.973
+County,Yolo,Other,2014,Percent,1
+County,Yolo,All,2010,Percent,0.971
+County,Yolo,Latino,2010,Percent,0.942
+County,Yolo,Asian,2010,Percent,0.985
+County,Yolo,African American,2010,Percent,1
+County,Yolo,White,2010,Percent,0.975
+County,Yolo,Other,2010,Percent,0.98
+County,Yuba,All,2014,Percent,0.89
+County,Yuba,Latino,2014,Percent,88%*
+County,Yuba,Asian,2014,Percent,94%*
+County,Yuba,African American,2014,Percent,1
+County,Yuba,White,2014,Percent,88%*
+County,Yuba,Other,2014,Percent,NA
+County,Yuba,All,2010,Percent,0.856
+County,Yuba,Latino,2010,Percent,0.851
+County,Yuba,Asian,2010,Percent,NA
+County,Yuba,African American,2010,Percent,1
+County,Yuba,White,2010,Percent,0.871
+County,Yuba,Other,2010,Percent,87%*

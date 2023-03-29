@@ -1,0 +1,886 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+State,California,2000,Rate,11
+State,California,2001,Rate,10
+State,California,2002,Rate,9.4
+State,California,2003,Rate,8.8
+State,California,2004,Rate,8.3
+State,California,2005,Rate,8
+State,California,2006,Rate,7.8
+State,California,2007,Rate,7.5
+State,California,2008,Rate,6.8
+State,California,2009,Rate,6.4
+State,California,2010,Rate,5.9
+State,California,2011,Rate,5.8
+State,California,2012,Rate,5.7
+State,California,2013,Rate,5.8
+State,California,2014,Rate,6
+County,Alameda,2000,Rate,12.2
+County,Alameda,2001,Rate,11.9
+County,Alameda,2002,Rate,10.9
+County,Alameda,2003,Rate,9.7
+County,Alameda,2004,Rate,8.6
+County,Alameda,2005,Rate,7.9
+County,Alameda,2006,Rate,7.2
+County,Alameda,2007,Rate,6.7
+County,Alameda,2008,Rate,6.3
+County,Alameda,2009,Rate,5.5
+County,Alameda,2010,Rate,4.9
+County,Alameda,2011,Rate,4.3
+County,Alameda,2012,Rate,3.8
+County,Alameda,2013,Rate,3.7
+County,Alameda,2014,Rate,3.7
+County,Alpine,2000,Rate,25.3
+County,Alpine,2001,Rate,18.7
+County,Alpine,2002,Rate,15.5
+County,Alpine,2003,Rate,11.9
+County,Alpine,2004,Rate,11.8
+County,Alpine,2005,Rate,8.4
+County,Alpine,2006,Rate,8
+County,Alpine,2007,Rate,0
+County,Alpine,2008,Rate,0
+County,Alpine,2009,Rate,0
+County,Alpine,2010,Rate,0
+County,Alpine,2011,Rate,0
+County,Alpine,2012,Rate,0
+County,Alpine,2013,Rate,0
+County,Alpine,2014,Rate,0
+County,Amador,2000,Rate,3.7
+County,Amador,2001,Rate,4.7
+County,Amador,2002,Rate,3.9
+County,Amador,2003,Rate,3.7
+County,Amador,2004,Rate,5.1
+County,Amador,2005,Rate,3.9
+County,Amador,2006,Rate,3.3
+County,Amador,2007,Rate,4.6
+County,Amador,2008,Rate,3.9
+County,Amador,2009,Rate,5
+County,Amador,2010,Rate,6.5
+County,Amador,2011,Rate,5.1
+County,Amador,2012,Rate,5
+County,Amador,2013,Rate,6.8
+County,Amador,2014,Rate,9
+County,Butte,2000,Rate,13
+County,Butte,2001,Rate,13.4
+County,Butte,2002,Rate,14.3
+County,Butte,2003,Rate,13.6
+County,Butte,2004,Rate,14.9
+County,Butte,2005,Rate,15.1
+County,Butte,2006,Rate,14.6
+County,Butte,2007,Rate,15
+County,Butte,2008,Rate,14
+County,Butte,2009,Rate,14.1
+County,Butte,2010,Rate,13.9
+County,Butte,2011,Rate,12.8
+County,Butte,2012,Rate,11.4
+County,Butte,2013,Rate,9.7
+County,Butte,2014,Rate,10.8
+County,Calaveras,2000,Rate,7.2
+County,Calaveras,2001,Rate,11.5
+County,Calaveras,2002,Rate,13.3
+County,Calaveras,2003,Rate,16.3
+County,Calaveras,2004,Rate,15.9
+County,Calaveras,2005,Rate,11.5
+County,Calaveras,2006,Rate,10.8
+County,Calaveras,2007,Rate,8.8
+County,Calaveras,2008,Rate,7.2
+County,Calaveras,2009,Rate,7.9
+County,Calaveras,2010,Rate,8.1
+County,Calaveras,2011,Rate,8.5
+County,Calaveras,2012,Rate,10
+County,Calaveras,2013,Rate,12.6
+County,Calaveras,2014,Rate,18.2
+County,Colusa,2000,Rate,2.3
+County,Colusa,2001,Rate,4.7
+County,Colusa,2002,Rate,4.2
+County,Colusa,2003,Rate,3.5
+County,Colusa,2004,Rate,4.3
+County,Colusa,2005,Rate,8
+County,Colusa,2006,Rate,7.8
+County,Colusa,2007,Rate,8.4
+County,Colusa,2008,Rate,5.5
+County,Colusa,2009,Rate,4.6
+County,Colusa,2010,Rate,3
+County,Colusa,2011,Rate,3.9
+County,Colusa,2012,Rate,2.7
+County,Colusa,2013,Rate,6.7
+County,Colusa,2014,Rate,4.2
+County,Contra Costa,2000,Rate,8.6
+County,Contra Costa,2001,Rate,8.7
+County,Contra Costa,2002,Rate,8.3
+County,Contra Costa,2003,Rate,7.7
+County,Contra Costa,2004,Rate,7.2
+County,Contra Costa,2005,Rate,7
+County,Contra Costa,2006,Rate,6.4
+County,Contra Costa,2007,Rate,5.7
+County,Contra Costa,2008,Rate,5.1
+County,Contra Costa,2009,Rate,4.5
+County,Contra Costa,2010,Rate,3.6
+County,Contra Costa,2011,Rate,3.7
+County,Contra Costa,2012,Rate,3.8
+County,Contra Costa,2013,Rate,4.1
+County,Contra Costa,2014,Rate,3.9
+County,Del Norte,2000,Rate,17.6
+County,Del Norte,2001,Rate,19.9
+County,Del Norte,2002,Rate,18.6
+County,Del Norte,2003,Rate,19.1
+County,Del Norte,2004,Rate,16.2
+County,Del Norte,2005,Rate,15.7
+County,Del Norte,2006,Rate,17.3
+County,Del Norte,2007,Rate,15.4
+County,Del Norte,2008,Rate,15.4
+County,Del Norte,2009,Rate,13.7
+County,Del Norte,2010,Rate,15
+County,Del Norte,2011,Rate,16
+County,Del Norte,2012,Rate,12.8
+County,Del Norte,2013,Rate,16.2
+County,Del Norte,2014,Rate,14.5
+County,El Dorado,2000,Rate,5.5
+County,El Dorado,2001,Rate,4.8
+County,El Dorado,2002,Rate,4.2
+County,El Dorado,2003,Rate,4
+County,El Dorado,2004,Rate,4.7
+County,El Dorado,2005,Rate,5.5
+County,El Dorado,2006,Rate,5.6
+County,El Dorado,2007,Rate,6.4
+County,El Dorado,2008,Rate,6.4
+County,El Dorado,2009,Rate,6.4
+County,El Dorado,2010,Rate,6.2
+County,El Dorado,2011,Rate,6.3
+County,El Dorado,2012,Rate,6.9
+County,El Dorado,2013,Rate,7.8
+County,El Dorado,2014,Rate,7.6
+County,Fresno,2000,Rate,12.9
+County,Fresno,2001,Rate,12.9
+County,Fresno,2002,Rate,12.5
+County,Fresno,2003,Rate,11.5
+County,Fresno,2004,Rate,10.3
+County,Fresno,2005,Rate,9.7
+County,Fresno,2006,Rate,8.7
+County,Fresno,2007,Rate,8.7
+County,Fresno,2008,Rate,9
+County,Fresno,2009,Rate,8.7
+County,Fresno,2010,Rate,8.3
+County,Fresno,2011,Rate,7.1
+County,Fresno,2012,Rate,6.2
+County,Fresno,2013,Rate,6.1
+County,Fresno,2014,Rate,6.9
+County,Glenn,2000,Rate,7.6
+County,Glenn,2001,Rate,6.5
+County,Glenn,2002,Rate,6.7
+County,Glenn,2003,Rate,9.7
+County,Glenn,2004,Rate,10.9
+County,Glenn,2005,Rate,10.4
+County,Glenn,2006,Rate,10.4
+County,Glenn,2007,Rate,11.5
+County,Glenn,2008,Rate,10.1
+County,Glenn,2009,Rate,9.6
+County,Glenn,2010,Rate,11.8
+County,Glenn,2011,Rate,8.9
+County,Glenn,2012,Rate,8.8
+County,Glenn,2013,Rate,8.1
+County,Glenn,2014,Rate,11.3
+County,Humboldt,2000,Rate,9
+County,Humboldt,2001,Rate,9.4
+County,Humboldt,2002,Rate,8.5
+County,Humboldt,2003,Rate,8.5
+County,Humboldt,2004,Rate,7.6
+County,Humboldt,2005,Rate,8.4
+County,Humboldt,2006,Rate,10.5
+County,Humboldt,2007,Rate,9.4
+County,Humboldt,2008,Rate,9.1
+County,Humboldt,2009,Rate,8.3
+County,Humboldt,2010,Rate,7.5
+County,Humboldt,2011,Rate,10.7
+County,Humboldt,2012,Rate,9.5
+County,Humboldt,2013,Rate,10.4
+County,Humboldt,2014,Rate,10.9
+County,Imperial,2000,Rate,7.5
+County,Imperial,2001,Rate,9.7
+County,Imperial,2002,Rate,8.4
+County,Imperial,2003,Rate,7.9
+County,Imperial,2004,Rate,6.9
+County,Imperial,2005,Rate,6.2
+County,Imperial,2006,Rate,6.5
+County,Imperial,2007,Rate,8
+County,Imperial,2008,Rate,8.1
+County,Imperial,2009,Rate,6.6
+County,Imperial,2010,Rate,4.7
+County,Imperial,2011,Rate,4.1
+County,Imperial,2012,Rate,4.8
+County,Imperial,2013,Rate,5.6
+County,Imperial,2014,Rate,6.7
+County,Inyo,2000,Rate,4.4
+County,Inyo,2001,Rate,5.4
+County,Inyo,2002,Rate,8
+County,Inyo,2003,Rate,4.4
+County,Inyo,2004,Rate,3
+County,Inyo,2005,Rate,2.3
+County,Inyo,2006,Rate,3.6
+County,Inyo,2007,Rate,4.1
+County,Inyo,2008,Rate,2.8
+County,Inyo,2009,Rate,2.2
+County,Inyo,2010,Rate,4.3
+County,Inyo,2011,Rate,3.9
+County,Inyo,2012,Rate,4.6
+County,Inyo,2013,Rate,2.8
+County,Inyo,2014,Rate,3.2
+County,Kern,2000,Rate,11.6
+County,Kern,2001,Rate,12.1
+County,Kern,2002,Rate,12.7
+County,Kern,2003,Rate,13.1
+County,Kern,2004,Rate,12.4
+County,Kern,2005,Rate,11.1
+County,Kern,2006,Rate,9.9
+County,Kern,2007,Rate,9.7
+County,Kern,2008,Rate,8.6
+County,Kern,2009,Rate,8.2
+County,Kern,2010,Rate,7.9
+County,Kern,2011,Rate,7.2
+County,Kern,2012,Rate,7
+County,Kern,2013,Rate,6.1
+County,Kern,2014,Rate,6.1
+County,Kings,2000,Rate,6.9
+County,Kings,2001,Rate,8.7
+County,Kings,2002,Rate,8.7
+County,Kings,2003,Rate,8.3
+County,Kings,2004,Rate,7.6
+County,Kings,2005,Rate,6.9
+County,Kings,2006,Rate,8.3
+County,Kings,2007,Rate,8.3
+County,Kings,2008,Rate,7.4
+County,Kings,2009,Rate,6.9
+County,Kings,2010,Rate,6.3
+County,Kings,2011,Rate,6.9
+County,Kings,2012,Rate,8.6
+County,Kings,2013,Rate,9.9
+County,Kings,2014,Rate,9.7
+County,Lake,2000,Rate,12.2
+County,Lake,2001,Rate,12.8
+County,Lake,2002,Rate,12.4
+County,Lake,2003,Rate,13
+County,Lake,2004,Rate,15.5
+County,Lake,2005,Rate,15.7
+County,Lake,2006,Rate,15.4
+County,Lake,2007,Rate,14
+County,Lake,2008,Rate,13
+County,Lake,2009,Rate,12.7
+County,Lake,2010,Rate,10.2
+County,Lake,2011,Rate,12.3
+County,Lake,2012,Rate,8.9
+County,Lake,2013,Rate,9.4
+County,Lake,2014,Rate,10.1
+County,Lassen,2000,Rate,7.1
+County,Lassen,2001,Rate,9.1
+County,Lassen,2002,Rate,11.4
+County,Lassen,2003,Rate,10.4
+County,Lassen,2004,Rate,11.3
+County,Lassen,2005,Rate,12.3
+County,Lassen,2006,Rate,7.8
+County,Lassen,2007,Rate,8.9
+County,Lassen,2008,Rate,7.2
+County,Lassen,2009,Rate,7.4
+County,Lassen,2010,Rate,7.3
+County,Lassen,2011,Rate,7.3
+County,Lassen,2012,Rate,7.7
+County,Lassen,2013,Rate,7.8
+County,Lassen,2014,Rate,8.7
+County,Los Angeles,2000,Rate,16.3
+County,Los Angeles,2001,Rate,13.6
+County,Los Angeles,2002,Rate,12.2
+County,Los Angeles,2003,Rate,11.2
+County,Los Angeles,2004,Rate,10.3
+County,Los Angeles,2005,Rate,9.7
+County,Los Angeles,2006,Rate,9.3
+County,Los Angeles,2007,Rate,9.1
+County,Los Angeles,2008,Rate,8.3
+County,Los Angeles,2009,Rate,7.6
+County,Los Angeles,2010,Rate,7.3
+County,Los Angeles,2011,Rate,7.3
+County,Los Angeles,2012,Rate,7.3
+County,Los Angeles,2013,Rate,7.7
+County,Los Angeles,2014,Rate,7.8
+County,Madera,2000,Rate,5.8
+County,Madera,2001,Rate,5.5
+County,Madera,2002,Rate,5.6
+County,Madera,2003,Rate,5.9
+County,Madera,2004,Rate,6.9
+County,Madera,2005,Rate,7.1
+County,Madera,2006,Rate,7.8
+County,Madera,2007,Rate,6.6
+County,Madera,2008,Rate,5.6
+County,Madera,2009,Rate,5.7
+County,Madera,2010,Rate,5.2
+County,Madera,2011,Rate,4.2
+County,Madera,2012,Rate,4.9
+County,Madera,2013,Rate,7.3
+County,Madera,2014,Rate,7.6
+County,Marin,2000,Rate,2.8
+County,Marin,2001,Rate,2.5
+County,Marin,2002,Rate,2.4
+County,Marin,2003,Rate,2.4
+County,Marin,2004,Rate,2
+County,Marin,2005,Rate,1.8
+County,Marin,2006,Rate,1.6
+County,Marin,2007,Rate,1.4
+County,Marin,2008,Rate,1
+County,Marin,2009,Rate,0.9
+County,Marin,2010,Rate,1.3
+County,Marin,2011,Rate,1.4
+County,Marin,2012,Rate,1.6
+County,Marin,2013,Rate,1.4
+County,Marin,2014,Rate,1.7
+County,Mariposa,2000,Rate,5.4
+County,Mariposa,2001,Rate,8.1
+County,Mariposa,2002,Rate,10.8
+County,Mariposa,2003,Rate,14.4
+County,Mariposa,2004,Rate,14
+County,Mariposa,2005,Rate,13.5
+County,Mariposa,2006,Rate,12.3
+County,Mariposa,2007,Rate,14.9
+County,Mariposa,2008,Rate,12.6
+County,Mariposa,2009,Rate,6.8
+County,Mariposa,2010,Rate,6.5
+County,Mariposa,2011,Rate,8.2
+County,Mariposa,2012,Rate,7
+County,Mariposa,2013,Rate,10.9
+County,Mariposa,2014,Rate,5.5
+County,Mendocino,2000,Rate,16.5
+County,Mendocino,2001,Rate,16.3
+County,Mendocino,2002,Rate,15.8
+County,Mendocino,2003,Rate,15.9
+County,Mendocino,2004,Rate,16
+County,Mendocino,2005,Rate,14.3
+County,Mendocino,2006,Rate,15.1
+County,Mendocino,2007,Rate,15
+County,Mendocino,2008,Rate,11.4
+County,Mendocino,2009,Rate,12.1
+County,Mendocino,2010,Rate,10.3
+County,Mendocino,2011,Rate,10.7
+County,Mendocino,2012,Rate,9.8
+County,Mendocino,2013,Rate,11.7
+County,Mendocino,2014,Rate,12.5
+County,Merced,2000,Rate,5.3
+County,Merced,2001,Rate,5.1
+County,Merced,2002,Rate,6.4
+County,Merced,2003,Rate,7.4
+County,Merced,2004,Rate,6.7
+County,Merced,2005,Rate,7.2
+County,Merced,2006,Rate,8.3
+County,Merced,2007,Rate,7.9
+County,Merced,2008,Rate,7.6
+County,Merced,2009,Rate,8.1
+County,Merced,2010,Rate,8.6
+County,Merced,2011,Rate,7.4
+County,Merced,2012,Rate,6.6
+County,Merced,2013,Rate,7.5
+County,Merced,2014,Rate,7.3
+County,Modoc,2000,Rate,11.1
+County,Modoc,2001,Rate,13.6
+County,Modoc,2002,Rate,11.6
+County,Modoc,2003,Rate,11.4
+County,Modoc,2004,Rate,8.6
+County,Modoc,2005,Rate,8.8
+County,Modoc,2006,Rate,7.3
+County,Modoc,2007,Rate,6.8
+County,Modoc,2008,Rate,3.3
+County,Modoc,2009,Rate,2.3
+County,Modoc,2010,Rate,2.8
+County,Modoc,2011,Rate,2.4
+County,Modoc,2012,Rate,4.6
+County,Modoc,2013,Rate,3.9
+County,Modoc,2014,Rate,5.9
+County,Mono,2000,Rate,2.7
+County,Mono,2001,Rate,2.6
+County,Mono,2002,Rate,2.6
+County,Mono,2003,Rate,1.9
+County,Mono,2004,Rate,1.6
+County,Mono,2005,Rate,2.4
+County,Mono,2006,Rate,2.7
+County,Mono,2007,Rate,2.7
+County,Mono,2008,Rate,3.6
+County,Mono,2009,Rate,2.6
+County,Mono,2010,Rate,1
+County,Mono,2011,Rate,1.3
+County,Mono,2012,Rate,1.4
+County,Mono,2013,Rate,1.7
+County,Mono,2014,Rate,1
+County,Monterey,2000,Rate,3.7
+County,Monterey,2001,Rate,3.1
+County,Monterey,2002,Rate,2.7
+County,Monterey,2003,Rate,3.4
+County,Monterey,2004,Rate,4
+County,Monterey,2005,Rate,4.1
+County,Monterey,2006,Rate,3.9
+County,Monterey,2007,Rate,4
+County,Monterey,2008,Rate,3.9
+County,Monterey,2009,Rate,3.1
+County,Monterey,2010,Rate,2.5
+County,Monterey,2011,Rate,2.4
+County,Monterey,2012,Rate,2.5
+County,Monterey,2013,Rate,2.9
+County,Monterey,2014,Rate,3.1
+County,Napa,2000,Rate,4.5
+County,Napa,2001,Rate,4.3
+County,Napa,2002,Rate,4.3
+County,Napa,2003,Rate,3.9
+County,Napa,2004,Rate,4.3
+County,Napa,2005,Rate,4.2
+County,Napa,2006,Rate,3.7
+County,Napa,2007,Rate,2.9
+County,Napa,2008,Rate,2.8
+County,Napa,2009,Rate,3.4
+County,Napa,2010,Rate,3.7
+County,Napa,2011,Rate,3.9
+County,Napa,2012,Rate,2.9
+County,Napa,2013,Rate,3.3
+County,Napa,2014,Rate,4.6
+County,Nevada,2000,Rate,4.7
+County,Nevada,2001,Rate,4.7
+County,Nevada,2002,Rate,5.4
+County,Nevada,2003,Rate,4.6
+County,Nevada,2004,Rate,5.1
+County,Nevada,2005,Rate,4.5
+County,Nevada,2006,Rate,4.1
+County,Nevada,2007,Rate,3.4
+County,Nevada,2008,Rate,3
+County,Nevada,2009,Rate,3.6
+County,Nevada,2010,Rate,4.7
+County,Nevada,2011,Rate,5.1
+County,Nevada,2012,Rate,6.1
+County,Nevada,2013,Rate,5.2
+County,Nevada,2014,Rate,5.2
+County,Orange,2000,Rate,5.9
+County,Orange,2001,Rate,5.4
+County,Orange,2002,Rate,5.1
+County,Orange,2003,Rate,4.4
+County,Orange,2004,Rate,4
+County,Orange,2005,Rate,3.7
+County,Orange,2006,Rate,3.7
+County,Orange,2007,Rate,4
+County,Orange,2008,Rate,3.9
+County,Orange,2009,Rate,3.6
+County,Orange,2010,Rate,3.3
+County,Orange,2011,Rate,3.2
+County,Orange,2012,Rate,3.1
+County,Orange,2013,Rate,3
+County,Orange,2014,Rate,2.9
+County,Placer,2000,Rate,5.9
+County,Placer,2001,Rate,6
+County,Placer,2002,Rate,5.3
+County,Placer,2003,Rate,5.1
+County,Placer,2004,Rate,4.7
+County,Placer,2005,Rate,4.2
+County,Placer,2006,Rate,3.9
+County,Placer,2007,Rate,3.7
+County,Placer,2008,Rate,3
+County,Placer,2009,Rate,2.8
+County,Placer,2010,Rate,3
+County,Placer,2011,Rate,2.9
+County,Placer,2012,Rate,2.8
+County,Placer,2013,Rate,3
+County,Placer,2014,Rate,3.7
+County,Plumas,2000,Rate,4.9
+County,Plumas,2001,Rate,8.4
+County,Plumas,2002,Rate,12.1
+County,Plumas,2003,Rate,10
+County,Plumas,2004,Rate,10.3
+County,Plumas,2005,Rate,7.8
+County,Plumas,2006,Rate,11.3
+County,Plumas,2007,Rate,16.5
+County,Plumas,2008,Rate,10.8
+County,Plumas,2009,Rate,13.8
+County,Plumas,2010,Rate,16.3
+County,Plumas,2011,Rate,15.1
+County,Plumas,2012,Rate,17
+County,Plumas,2013,Rate,11.6
+County,Plumas,2014,Rate,12.3
+County,Riverside,2000,Rate,9.2
+County,Riverside,2001,Rate,8.7
+County,Riverside,2002,Rate,8.5
+County,Riverside,2003,Rate,8.6
+County,Riverside,2004,Rate,8.4
+County,Riverside,2005,Rate,8.8
+County,Riverside,2006,Rate,9
+County,Riverside,2007,Rate,9.3
+County,Riverside,2008,Rate,7.4
+County,Riverside,2009,Rate,6.2
+County,Riverside,2010,Rate,6.3
+County,Riverside,2011,Rate,6.6
+County,Riverside,2012,Rate,6.3
+County,Riverside,2013,Rate,6.4
+County,Riverside,2014,Rate,7.2
+County,Sacramento,2000,Rate,17.6
+County,Sacramento,2001,Rate,15.3
+County,Sacramento,2002,Rate,14
+County,Sacramento,2003,Rate,12.6
+County,Sacramento,2004,Rate,11.4
+County,Sacramento,2005,Rate,12
+County,Sacramento,2006,Rate,11.9
+County,Sacramento,2007,Rate,11.3
+County,Sacramento,2008,Rate,10.6
+County,Sacramento,2009,Rate,10.7
+County,Sacramento,2010,Rate,8.8
+County,Sacramento,2011,Rate,7.5
+County,Sacramento,2012,Rate,6.3
+County,Sacramento,2013,Rate,6.2
+County,Sacramento,2014,Rate,6.7
+County,San Benito,2000,Rate,2.7
+County,San Benito,2001,Rate,2.7
+County,San Benito,2002,Rate,4.1
+County,San Benito,2003,Rate,5.5
+County,San Benito,2004,Rate,5.2
+County,San Benito,2005,Rate,3.7
+County,San Benito,2006,Rate,5
+County,San Benito,2007,Rate,4.6
+County,San Benito,2008,Rate,5.5
+County,San Benito,2009,Rate,5.1
+County,San Benito,2010,Rate,3.6
+County,San Benito,2011,Rate,5.4
+County,San Benito,2012,Rate,6.4
+County,San Benito,2013,Rate,4.7
+County,San Benito,2014,Rate,4.1
+County,San Bernardino,2000,Rate,9.5
+County,San Bernardino,2001,Rate,9.6
+County,San Bernardino,2002,Rate,9.3
+County,San Bernardino,2003,Rate,8.9
+County,San Bernardino,2004,Rate,8.7
+County,San Bernardino,2005,Rate,8.4
+County,San Bernardino,2006,Rate,8
+County,San Bernardino,2007,Rate,7.5
+County,San Bernardino,2008,Rate,6.9
+County,San Bernardino,2009,Rate,6.3
+County,San Bernardino,2010,Rate,5.7
+County,San Bernardino,2011,Rate,6.8
+County,San Bernardino,2012,Rate,6.8
+County,San Bernardino,2013,Rate,7.7
+County,San Bernardino,2014,Rate,7.9
+County,San Diego,2000,Rate,9.5
+County,San Diego,2001,Rate,9.3
+County,San Diego,2002,Rate,8.5
+County,San Diego,2003,Rate,8.2
+County,San Diego,2004,Rate,7.9
+County,San Diego,2005,Rate,7.8
+County,San Diego,2006,Rate,7.7
+County,San Diego,2007,Rate,7.1
+County,San Diego,2008,Rate,6.6
+County,San Diego,2009,Rate,6.1
+County,San Diego,2010,Rate,5.2
+County,San Diego,2011,Rate,4.7
+County,San Diego,2012,Rate,4.6
+County,San Diego,2013,Rate,4.3
+County,San Diego,2014,Rate,4.2
+County,San Francisco,2000,Rate,22.6
+County,San Francisco,2001,Rate,19.5
+County,San Francisco,2002,Rate,19
+County,San Francisco,2003,Rate,18.7
+County,San Francisco,2004,Rate,18.3
+County,San Francisco,2005,Rate,17
+County,San Francisco,2006,Rate,16.2
+County,San Francisco,2007,Rate,15.1
+County,San Francisco,2008,Rate,13.1
+County,San Francisco,2009,Rate,12.3
+County,San Francisco,2010,Rate,11.4
+County,San Francisco,2011,Rate,9.7
+County,San Francisco,2012,Rate,8.4
+County,San Francisco,2013,Rate,7.5
+County,San Francisco,2014,Rate,6.7
+County,San Joaquin,2000,Rate,8.9
+County,San Joaquin,2001,Rate,8.8
+County,San Joaquin,2002,Rate,8.7
+County,San Joaquin,2003,Rate,8.3
+County,San Joaquin,2004,Rate,8.2
+County,San Joaquin,2005,Rate,8.7
+County,San Joaquin,2006,Rate,8.5
+County,San Joaquin,2007,Rate,7.8
+County,San Joaquin,2008,Rate,6.6
+County,San Joaquin,2009,Rate,6.4
+County,San Joaquin,2010,Rate,6.1
+County,San Joaquin,2011,Rate,5.8
+County,San Joaquin,2012,Rate,5.9
+County,San Joaquin,2013,Rate,6.7
+County,San Joaquin,2014,Rate,7.1
+County,San Luis Obispo,2000,Rate,6.9
+County,San Luis Obispo,2001,Rate,6.1
+County,San Luis Obispo,2002,Rate,6.9
+County,San Luis Obispo,2003,Rate,7
+County,San Luis Obispo,2004,Rate,5.8
+County,San Luis Obispo,2005,Rate,6.4
+County,San Luis Obispo,2006,Rate,6.5
+County,San Luis Obispo,2007,Rate,6.6
+County,San Luis Obispo,2008,Rate,6.6
+County,San Luis Obispo,2009,Rate,6
+County,San Luis Obispo,2010,Rate,6.3
+County,San Luis Obispo,2011,Rate,6.6
+County,San Luis Obispo,2012,Rate,7.1
+County,San Luis Obispo,2013,Rate,7.1
+County,San Luis Obispo,2014,Rate,5.9
+County,San Mateo,2000,Rate,3.2
+County,San Mateo,2001,Rate,3
+County,San Mateo,2002,Rate,2.8
+County,San Mateo,2003,Rate,3.1
+County,San Mateo,2004,Rate,2.9
+County,San Mateo,2005,Rate,2.8
+County,San Mateo,2006,Rate,3
+County,San Mateo,2007,Rate,2.8
+County,San Mateo,2008,Rate,2.5
+County,San Mateo,2009,Rate,1.9
+County,San Mateo,2010,Rate,1.7
+County,San Mateo,2011,Rate,1.8
+County,San Mateo,2012,Rate,1.8
+County,San Mateo,2013,Rate,1.9
+County,San Mateo,2014,Rate,1.6
+County,Santa Barbara,2000,Rate,3.8
+County,Santa Barbara,2001,Rate,3.5
+County,Santa Barbara,2002,Rate,3.1
+County,Santa Barbara,2003,Rate,2.9
+County,Santa Barbara,2004,Rate,3.3
+County,Santa Barbara,2005,Rate,4.3
+County,Santa Barbara,2006,Rate,5.6
+County,Santa Barbara,2007,Rate,5.3
+County,Santa Barbara,2008,Rate,5.4
+County,Santa Barbara,2009,Rate,6.1
+County,Santa Barbara,2010,Rate,5.5
+County,Santa Barbara,2011,Rate,5.6
+County,Santa Barbara,2012,Rate,5.2
+County,Santa Barbara,2013,Rate,5.2
+County,Santa Barbara,2014,Rate,4.5
+County,Santa Clara,2000,Rate,6.3
+County,Santa Clara,2001,Rate,5.7
+County,Santa Clara,2002,Rate,5.5
+County,Santa Clara,2003,Rate,5.2
+County,Santa Clara,2004,Rate,4.8
+County,Santa Clara,2005,Rate,4.8
+County,Santa Clara,2006,Rate,4.8
+County,Santa Clara,2007,Rate,4.7
+County,Santa Clara,2008,Rate,3.8
+County,Santa Clara,2009,Rate,3.3
+County,Santa Clara,2010,Rate,2.5
+County,Santa Clara,2011,Rate,2.3
+County,Santa Clara,2012,Rate,2.2
+County,Santa Clara,2013,Rate,2.5
+County,Santa Clara,2014,Rate,2.6
+County,Santa Cruz,2000,Rate,5.1
+County,Santa Cruz,2001,Rate,4.9
+County,Santa Cruz,2002,Rate,4.7
+County,Santa Cruz,2003,Rate,4.5
+County,Santa Cruz,2004,Rate,5.1
+County,Santa Cruz,2005,Rate,5.8
+County,Santa Cruz,2006,Rate,5.2
+County,Santa Cruz,2007,Rate,5.4
+County,Santa Cruz,2008,Rate,4
+County,Santa Cruz,2009,Rate,4.7
+County,Santa Cruz,2010,Rate,4.4
+County,Santa Cruz,2011,Rate,4.7
+County,Santa Cruz,2012,Rate,4.8
+County,Santa Cruz,2013,Rate,4.5
+County,Santa Cruz,2014,Rate,4.2
+County,Shasta,2000,Rate,12.8
+County,Shasta,2001,Rate,12.8
+County,Shasta,2002,Rate,13.2
+County,Shasta,2003,Rate,13.3
+County,Shasta,2004,Rate,13.8
+County,Shasta,2005,Rate,14.1
+County,Shasta,2006,Rate,13.9
+County,Shasta,2007,Rate,14.9
+County,Shasta,2008,Rate,14.6
+County,Shasta,2009,Rate,14.1
+County,Shasta,2010,Rate,13.3
+County,Shasta,2011,Rate,12.8
+County,Shasta,2012,Rate,13.6
+County,Shasta,2013,Rate,15.7
+County,Shasta,2014,Rate,15.2
+County,Sierra,2000,Rate,6
+County,Sierra,2001,Rate,5.2
+County,Sierra,2002,Rate,5.6
+County,Sierra,2003,Rate,22.1
+County,Sierra,2004,Rate,25.4
+County,Sierra,2005,Rate,19.9
+County,Sierra,2006,Rate,13.7
+County,Sierra,2007,Rate,14.5
+County,Sierra,2008,Rate,27.4
+County,Sierra,2009,Rate,16.1
+County,Sierra,2010,Rate,12.3
+County,Sierra,2011,Rate,7.6
+County,Sierra,2012,Rate,3.9
+County,Sierra,2013,Rate,0
+County,Sierra,2014,Rate,0
+County,Siskiyou,2000,Rate,15.5
+County,Siskiyou,2001,Rate,16.6
+County,Siskiyou,2002,Rate,17.9
+County,Siskiyou,2003,Rate,16
+County,Siskiyou,2004,Rate,15
+County,Siskiyou,2005,Rate,16.6
+County,Siskiyou,2006,Rate,16.4
+County,Siskiyou,2007,Rate,14.9
+County,Siskiyou,2008,Rate,13.6
+County,Siskiyou,2009,Rate,13.1
+County,Siskiyou,2010,Rate,13.2
+County,Siskiyou,2011,Rate,9.4
+County,Siskiyou,2012,Rate,10.4
+County,Siskiyou,2013,Rate,11.6
+County,Siskiyou,2014,Rate,13.5
+County,Solano,2000,Rate,3.5
+County,Solano,2001,Rate,3.9
+County,Solano,2002,Rate,4.1
+County,Solano,2003,Rate,4.4
+County,Solano,2004,Rate,5.2
+County,Solano,2005,Rate,5
+County,Solano,2006,Rate,5.1
+County,Solano,2007,Rate,4.5
+County,Solano,2008,Rate,4.1
+County,Solano,2009,Rate,3.7
+County,Solano,2010,Rate,3.5
+County,Solano,2011,Rate,3.8
+County,Solano,2012,Rate,3.9
+County,Solano,2013,Rate,4.3
+County,Solano,2014,Rate,4.3
+County,Sonoma,2000,Rate,4.4
+County,Sonoma,2001,Rate,4.8
+County,Sonoma,2002,Rate,5
+County,Sonoma,2003,Rate,4.8
+County,Sonoma,2004,Rate,4.4
+County,Sonoma,2005,Rate,4.6
+County,Sonoma,2006,Rate,5
+County,Sonoma,2007,Rate,4.9
+County,Sonoma,2008,Rate,4.8
+County,Sonoma,2009,Rate,4.4
+County,Sonoma,2010,Rate,4.5
+County,Sonoma,2011,Rate,4.9
+County,Sonoma,2012,Rate,4.9
+County,Sonoma,2013,Rate,4.6
+County,Sonoma,2014,Rate,4.4
+County,Stanislaus,2000,Rate,5.4
+County,Stanislaus,2001,Rate,5
+County,Stanislaus,2002,Rate,5.1
+County,Stanislaus,2003,Rate,4.8
+County,Stanislaus,2004,Rate,4.4
+County,Stanislaus,2005,Rate,4.1
+County,Stanislaus,2006,Rate,3.5
+County,Stanislaus,2007,Rate,3.6
+County,Stanislaus,2008,Rate,3.8
+County,Stanislaus,2009,Rate,4.2
+County,Stanislaus,2010,Rate,4
+County,Stanislaus,2011,Rate,4.4
+County,Stanislaus,2012,Rate,4.1
+County,Stanislaus,2013,Rate,4.7
+County,Stanislaus,2014,Rate,4.9
+County,Sutter,2000,Rate,10.7
+County,Sutter,2001,Rate,10.7
+County,Sutter,2002,Rate,8.9
+County,Sutter,2003,Rate,8.4
+County,Sutter,2004,Rate,9.2
+County,Sutter,2005,Rate,8.4
+County,Sutter,2006,Rate,6.6
+County,Sutter,2007,Rate,6.4
+County,Sutter,2008,Rate,5.2
+County,Sutter,2009,Rate,5.5
+County,Sutter,2010,Rate,6.1
+County,Sutter,2011,Rate,6.4
+County,Sutter,2012,Rate,6
+County,Sutter,2013,Rate,5.5
+County,Sutter,2014,Rate,5.2
+County,Tehama,2000,Rate,10.4
+County,Tehama,2001,Rate,10.9
+County,Tehama,2002,Rate,12.7
+County,Tehama,2003,Rate,12.7
+County,Tehama,2004,Rate,12
+County,Tehama,2005,Rate,12.7
+County,Tehama,2006,Rate,13.9
+County,Tehama,2007,Rate,13.9
+County,Tehama,2008,Rate,10.9
+County,Tehama,2009,Rate,10.3
+County,Tehama,2010,Rate,12.5
+County,Tehama,2011,Rate,13
+County,Tehama,2012,Rate,10.4
+County,Tehama,2013,Rate,10.6
+County,Tehama,2014,Rate,13.6
+County,Trinity,2000,Rate,11.9
+County,Trinity,2001,Rate,16.8
+County,Trinity,2002,Rate,15.9
+County,Trinity,2003,Rate,14.7
+County,Trinity,2004,Rate,15
+County,Trinity,2005,Rate,11.1
+County,Trinity,2006,Rate,15.4
+County,Trinity,2007,Rate,15.7
+County,Trinity,2008,Rate,14.2
+County,Trinity,2009,Rate,11.9
+County,Trinity,2010,Rate,17.4
+County,Trinity,2011,Rate,16
+County,Trinity,2012,Rate,26.4
+County,Trinity,2013,Rate,25.7
+County,Trinity,2014,Rate,28.7
+County,Tulare,2000,Rate,10.8
+County,Tulare,2001,Rate,9.8
+County,Tulare,2002,Rate,9.6
+County,Tulare,2003,Rate,8.9
+County,Tulare,2004,Rate,8.3
+County,Tulare,2005,Rate,8.5
+County,Tulare,2006,Rate,8
+County,Tulare,2007,Rate,7.7
+County,Tulare,2008,Rate,6.3
+County,Tulare,2009,Rate,6.5
+County,Tulare,2010,Rate,5.5
+County,Tulare,2011,Rate,5.6
+County,Tulare,2012,Rate,6.7
+County,Tulare,2013,Rate,6.6
+County,Tulare,2014,Rate,6.9
+County,Tuolumne,2000,Rate,9.5
+County,Tuolumne,2001,Rate,9.3
+County,Tuolumne,2002,Rate,10.6
+County,Tuolumne,2003,Rate,13.1
+County,Tuolumne,2004,Rate,13
+County,Tuolumne,2005,Rate,12.4
+County,Tuolumne,2006,Rate,13.5
+County,Tuolumne,2007,Rate,9.1
+County,Tuolumne,2008,Rate,8.6
+County,Tuolumne,2009,Rate,9.4
+County,Tuolumne,2010,Rate,9.7
+County,Tuolumne,2011,Rate,10.2
+County,Tuolumne,2012,Rate,11.2
+County,Tuolumne,2013,Rate,8.5
+County,Tuolumne,2014,Rate,12
+County,Ventura,2000,Rate,3.4
+County,Ventura,2001,Rate,3.6
+County,Ventura,2002,Rate,3
+County,Ventura,2003,Rate,2.9
+County,Ventura,2004,Rate,3.1
+County,Ventura,2005,Rate,3.1
+County,Ventura,2006,Rate,3
+County,Ventura,2007,Rate,3
+County,Ventura,2008,Rate,2.9
+County,Ventura,2009,Rate,2.8
+County,Ventura,2010,Rate,2.9
+County,Ventura,2011,Rate,3.7
+County,Ventura,2012,Rate,4.1
+County,Ventura,2013,Rate,3.8
+County,Ventura,2014,Rate,4.3
+County,Yolo,2000,Rate,9.7
+County,Yolo,2001,Rate,9.6
+County,Yolo,2002,Rate,9.3
+County,Yolo,2003,Rate,9.7
+County,Yolo,2004,Rate,10.2
+County,Yolo,2005,Rate,9.4
+County,Yolo,2006,Rate,9.9
+County,Yolo,2007,Rate,8.4
+County,Yolo,2008,Rate,7.6
+County,Yolo,2009,Rate,7.5
+County,Yolo,2010,Rate,6.3
+County,Yolo,2011,Rate,5.8
+County,Yolo,2012,Rate,5.2
+County,Yolo,2013,Rate,4.9
+County,Yolo,2014,Rate,5.9
+County,Yuba,2000,Rate,18.9
+County,Yuba,2001,Rate,16.2
+County,Yuba,2002,Rate,15.8
+County,Yuba,2003,Rate,12.7
+County,Yuba,2004,Rate,10.8
+County,Yuba,2005,Rate,11
+County,Yuba,2006,Rate,9.9
+County,Yuba,2007,Rate,9.7
+County,Yuba,2008,Rate,7.2
+County,Yuba,2009,Rate,6.5
+County,Yuba,2010,Rate,5.8
+County,Yuba,2011,Rate,5.3
+County,Yuba,2012,Rate,5.2
+County,Yuba,2013,Rate,6.5
+County,Yuba,2014,Rate,7.9
